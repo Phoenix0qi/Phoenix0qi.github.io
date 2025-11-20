@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ZCQ Notebook – Documentation</title>
-    <link>https://phoenix0qi.github.io/Phoenix0qi/docs/</link>
+    <link>https://phoenix0qi.github.io/docs/</link>
     <description>Recent content in Documentation on ZCQ Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://phoenix0qi.github.io/Phoenix0qi/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://phoenix0qi.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Demo Page</title>
-      <link>https://phoenix0qi.github.io/Phoenix0qi/docs/first-page/</link>
+      <link>https://phoenix0qi.github.io/docs/first-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://phoenix0qi.github.io/Phoenix0qi/docs/first-page/</guid>
+      <guid>https://phoenix0qi.github.io/docs/first-page/</guid>
       <description>
         
         
@@ -30,10 +30,10 @@
     
     <item>
       <title>Leaf Page</title>
-      <link>https://phoenix0qi.github.io/Phoenix0qi/docs/folder/leaf/</link>
+      <link>https://phoenix0qi.github.io/docs/folder/leaf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://phoenix0qi.github.io/Phoenix0qi/docs/folder/leaf/</guid>
+      <guid>https://phoenix0qi.github.io/docs/folder/leaf/</guid>
       <description>
         
         
@@ -44,10 +44,10 @@
     
     <item>
       <title>Leaf Page - Music</title>
-      <link>https://phoenix0qi.github.io/Phoenix0qi/music/musicbook/music/</link>
+      <link>https://phoenix0qi.github.io/music/musicbook/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://phoenix0qi.github.io/Phoenix0qi/music/musicbook/music/</guid>
+      <guid>https://phoenix0qi.github.io/music/musicbook/music/</guid>
       <description>
         
         
