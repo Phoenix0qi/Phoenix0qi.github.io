@@ -1,0 +1,1745 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZCQ Notebook – 软件_电路_音色_工具</title>
+    <link>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 软件_电路_音色_工具 on ZCQ Notebook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Guitar Pro 8</title>
+      <link>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/8.1.guitarpro8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/8.1.guitarpro8/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Guitar Pro 8&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;guitar-pro-8&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#guitar-pro-8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Power Tab&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;power-tab&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#power-tab&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>指板可视化-软件开发</title>
+      <link>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/8.2.%E6%8C%87%E6%9D%BF%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/8.2.%E6%8C%87%E6%9D%BF%E5%8F%AF%E8%A7%86%E5%8C%96/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;指板可视化&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;指板可视化&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%8c%87%e6%9d%bf%e5%8f%af%e8%a7%86%e5%8c%96&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;工具&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;工具&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%b7%a5%e5%85%b7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/FluidSynth/fluidsynth&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fluidsynth-2.4.6-win10-x64.zip&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;GeneralUser_GS_v2.0.2&amp;ndash;doc_r4.zip&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/helge17/tuxguitar&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tuxguitar-2025-06-10-master-windows-jfx-x86_64.zip&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;FFMPEG&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>个人博客搭建</title>
+      <link>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/8.3.%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/8.3.%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#1-%e5%a4%9a%e7%94%a8%e5%a4%9a%e7%ba%a7%e6%a0%87%e9%a2%98&#34;&gt;1. 多用多级标题！！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#2-%e5%90%89%e4%bb%96%e8%b5%84%e6%ba%90&#34;&gt;2. 吉他资源&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#21-%e8%b0%b1%e5%ad%90&#34;&gt;2.1. 谱子&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#3-markdown-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0&#34;&gt;3. markdown 学习笔记&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#31-markdown-%e6%8f%92%e5%85%a5%e6%b5%81%e7%a8%8b%e5%9b%be&#34;&gt;3.1. Markdown 插入流程图&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#32-%e8%a1%a8%e6%a0%bc%e6%b8%b2%e6%9f%93&#34;&gt;3.2. 表格渲染&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#33-%e6%8f%92%e5%85%a5%e5%9b%be%e7%89%87---%e5%9b%be%e5%ba%8a&#34;&gt;3.3. 插入图片 - 图床&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#34-%e7%bd%91%e9%a1%b5-%e8%bd%ac%e6%8d%a2-md&#34;&gt;3.4. 网页 转换 md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#4-%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2%e6%90%ad%e5%bb%ba&#34;&gt;4. 个人博客搭建&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#41-%e5%9f%ba%e6%9c%ac%e6%b5%81%e7%a8%8b&#34;&gt;4.1. 基本流程&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#411-%e7%bd%91%e7%ab%99%e4%b8%89%e5%a4%a7%e4%bb%b6&#34;&gt;4.1.1. 网站三大件&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#412-%e7%bd%91%e7%ab%99%e5%88%86%e7%b1%bb&#34;&gt;4.1.2. 网站分类&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#413-%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2%e6%96%b9%e6%a1%88&#34;&gt;4.1.3. 个人博客方案&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#42-%e5%8d%9a%e5%ae%a2%e8%a6%81%e7%b4%a0-%e6%96%b9%e6%b3%95&#34;&gt;4.2. 博客要素 方法&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#421-%e8%a6%81%e7%b4%a0&#34;&gt;4.2.1. 要素&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#422-%e5%af%bc%e8%88%aa%e9%a1%b5&#34;&gt;4.2.2. 导航页&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#423-%e6%90%ad%e5%bb%ba%e6%a1%88%e4%be%8b&#34;&gt;4.2.3. 搭建案例&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#github--sphinx--readthedocs&#34;&gt;Github + Sphinx + Readthedocs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#hugo--github-pages--github-actions&#34;&gt;&lt;strong&gt;Hugo + Github pages + Github Actions&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%e6%95%b0%e6%8d%ae%e7%bb%9f%e8%ae%a1%e7%b3%bb%e7%bb%9f&#34;&gt;数据统计系统❌&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%e5%8d%9a%e5%ae%a2%e8%af%84%e8%ae%ba%e7%b3%bb%e7%bb%9f-%ef%b8%8f&#34;&gt;博客评论系统 ✔️&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%e5%9b%be%e5%ba%8a-%ef%b8%8f&#34;&gt;图床 ✔️&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#tags-%ef%b8%8f&#34;&gt;Tags ✔️&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#last-modified-%e6%97%a5%e6%9c%9f%ef%b8%8f&#34;&gt;Last modified 日期✔️&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#hugo-%e5%86%85%e9%83%a8%e6%b8%b2%e6%9f%93%e4%bf%ae%e6%94%b9&#34;&gt;Hugo 内部渲染修改&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#424-%e9%87%87%e5%8f%96%e7%9a%84%e6%96%b9%e6%a1%88&#34;&gt;4.2.4. 采取的方案&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#5-%e5%b7%a5%e5%85%b7&#34;&gt;5. 工具&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#51-%e9%80%9a%e7%94%a8%e5%8a%9e%e5%85%ac&#34;&gt;5.1. 通用办公&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#52-ai-%e5%b7%a5%e5%85%b7&#34;&gt;5.2. AI 工具&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#6-%e5%8d%9a%e4%b8%bb&#34;&gt;6. 博主&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;1. &lt;a name=&#39;&#39;&gt;&lt;/a&gt;多用多级标题！！&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-多用多级标题&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-%e5%a4%9a%e7%94%a8%e5%a4%9a%e7%ba%a7%e6%a0%87%e9%a2%98&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;2. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;吉他资源&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-吉他资源&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-%e5%90%89%e4%bb%96%e8%b5%84%e6%ba%90&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;2.1. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;谱子&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;21-谱子&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#21-%e8%b0%b1%e5%ad%90&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;GTP
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.guitar.ch/en-us/index.html&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;外网吉他谱-全&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;吉他社&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;和弦谱：
+&lt;ul&gt;
+&lt;li&gt;chordify&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3. &lt;a name=&#39;markdown&#39;&gt;&lt;/a&gt;markdown 学习笔记&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-markdown-学习笔记&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-markdown-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-amber-200 hx:bg-amber-100 hx:text-amber-900 hx:dark:border-amber-200/30 hx:dark:bg-amber-900/30 hx:dark:text-amber-200&#34;&gt;
+  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;svg height=1.2em class=&#34;hx:inline-block hx:align-middle&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;生成目录TOC 要用 &lt;strong&gt;Markdown All in One&lt;/strong&gt;, 原生TOC标记不然无法跳转&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;3.1. &lt;a name=&#39;Markdown&#39;&gt;&lt;/a&gt;Markdown 插入流程图&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;31-markdown-插入流程图&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#31-markdown-%e6%8f%92%e5%85%a5%e6%b5%81%e7%a8%8b%e5%9b%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;流程图 mermaid 代码
+&lt;ul&gt;
+&lt;li&gt;
+&lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
+      flowchart LR
+        A(文档更改) --提交--&amp;gt; B(main分支) --Actions--&amp;gt; C(&amp;#34;编译，产生html，提交到docs分支&amp;#34;) --&amp;gt; E(&amp;#34;RTD自动编译，更新文档&amp;#34;)
+&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;3.2. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;表格渲染&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;32-表格渲染&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#32-%e8%a1%a8%e6%a0%bc%e6%b8%b2%e6%9f%93&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;描述&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;strong&gt;紧急&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;需要立即处理&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;font color=&#34;orange&#34;&gt;警告&lt;/font&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;存在潜在风险&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;项目&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;状态&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;服务器 A&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mpadded width=&#34;+6pt&#34; height=&#34;+6pt&#34; lspace=&#34;3pt&#34; voffset=&#34;3pt&#34; mathbackground=&#34;red&#34;&gt;&lt;mstyle mathcolor=&#34;white&#34;&gt;&lt;mtext&gt;CRITICAL&lt;/mtext&gt;&lt;/mstyle&gt;&lt;/mpadded&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\colorbox{red}{\color{white}{CRITICAL}}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1.2833em;vertical-align:-0.3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.9833em;&#34;&gt;&lt;span style=&#34;top:-2.9833em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3.2833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;stretchy colorbox&#34; style=&#34;height:1.2833em;background-color:red;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.2833em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3.2833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord boxpad&#34;&gt;&lt;span class=&#34;mord&#34; style=&#34;color:white;&#34;&gt;&lt;span class=&#34;mord&#34; style=&#34;color:white;&#34;&gt;CRITICAL&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;服务器 B&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mpadded width=&#34;+6pt&#34; height=&#34;+6pt&#34; lspace=&#34;3pt&#34; voffset=&#34;3pt&#34; mathbackground=&#34;green&#34;&gt;&lt;mtext&gt;NORMAL&lt;/mtext&gt;&lt;/mpadded&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\colorbox{green}{NORMAL}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1.2833em;vertical-align:-0.3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.9833em;&#34;&gt;&lt;span style=&#34;top:-2.9833em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3.2833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;stretchy colorbox&#34; style=&#34;height:1.2833em;background-color:green;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.2833em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3.2833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord boxpad&#34;&gt;&lt;span class=&#34;mord&#34;&gt;NORMAL&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;3.3. &lt;a name=&#39;-&#39;&gt;&lt;/a&gt;插入图片 - 图床&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;33-插入图片---图床&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#33-%e6%8f%92%e5%85%a5%e5%9b%be%e7%89%87---%e5%9b%be%e5%ba%8a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.csdn.net/qq_30163677/article/details/135194103#_3__GitHub_Token_31&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PicGo + github&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;图床工具，参考：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runningcheese.com/image-bed&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;image-bed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Github 图床 + JsDelivr&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github == 大型网盘，但国内无法正常访问&lt;/li&gt;
+&lt;li&gt;JsDelivr 加速，免费开源的 &lt;strong&gt;CDN&lt;/strong&gt; 解决方案&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;3.4. &lt;a name=&#39;md&#39;&gt;&lt;/a&gt;网页 转换 md&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;34-网页-转换-md&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#34-%e7%bd%91%e9%a1%b5-%e8%bd%ac%e6%8d%a2-md&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.yuque.com/kenshin/simpread/fxszlhpp1iht441s&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;简悦&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;4. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;个人博客搭建&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-个人博客搭建&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2%e6%90%ad%e5%bb%ba&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;参考材料
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runningcheese.com/free-website&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cheese-free-website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runningcheese.com/v02&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cheese-搭建细节&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.yuhan.tech/p/my-hugo-blog-v2/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;yuhan-参考搭建流程&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4.1. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;基本流程&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;41-基本流程&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#41-%e5%9f%ba%e6%9c%ac%e6%b5%81%e7%a8%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;4.1.1. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;网站三大件&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;411-网站三大件&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#411-%e7%bd%91%e7%ab%99%e4%b8%89%e5%a4%a7%e4%bb%b6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;域名（用于访问网页）：购买&lt;/li&gt;
+&lt;li&gt;服务器（用于托管静态网站）：　Github可以免费托管静态网站，当作服务器用；Github pages、Vercel、Readthedocs 托管静态网页&lt;/li&gt;
+&lt;li&gt;网站程序（网站内容）：Hugo……，&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20251114002503114.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;4.1.2. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;网站分类&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;412-网站分类&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#412-%e7%bd%91%e7%ab%99%e5%88%86%e7%b1%bb&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;静态网站&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;指存放在服务器文件系统中实实在在的HTML文件。访问URL时，浏览器下载HTML，渲染后呈现在窗口中&lt;/li&gt;
+&lt;li&gt;JavaScript 发展出了拥有后端服务器功能的 &lt;strong&gt;Node.js&lt;/strong&gt;。
+&lt;ul&gt;
+&lt;li&gt;相比传统的后端语言，Node.js 拥有超强的性能和响应速度，能够轻松处理大量请求和高并发。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;静态网站生成器 &lt;strong&gt;SSG (Static Site Generation)&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;静态场景，比如官网、博客、文档等，不需要频繁更新，造成浪费&lt;/li&gt;
+&lt;li&gt;SSG预先生成静态HTML网页，托管到服务器即可显示&lt;/li&gt;
+&lt;li&gt;SSG工具：
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://techwritertoolkit.wordpress.com/2023/06/06/a-feature-breakdown-comparison-jekyll-docusaurus-sphinx-and-hugo/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;静态网站生成比较&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;博客：Hexo、&lt;strong&gt;Hugo&lt;/strong&gt;、Jekyll、NotionNext、&lt;strong&gt;Sphinx&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugo: 有现成的主题，直接用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;文档程序：VuePress、VitePress、Docusauru、Docsify 、&lt;a href=&#34;https://docs.astro.build/en/getting-started/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Astro&lt;/a&gt;、&lt;strong&gt;GitBook&lt;/strong&gt;、MkDocs、Gridsome、Pelican&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;托管静态网页
+&lt;ul&gt;
+&lt;li&gt;方案
+&lt;ul&gt;
+&lt;li&gt;参考：&lt;a href=&#34;https://www.joyyan.com/Forums/Detail/190&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;托管静态网站&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Github pages、Vercel、Readthedocs、CloudFlare Pages&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Cloudflare Pages：高级、更快、与 Git 仓库的自动整合、全球 CDN 支持、无限制流量（在免费方案内）等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;如何选择
+&lt;ul&gt;
+&lt;li&gt;目标用途：如果只是展示型页面或小型博客，Tiiny Host 简单便捷；要持续部署更新、使用 Git 的话，Render／Netlify／Vercel 更适合。&lt;/li&gt;
+&lt;li&gt;流量与带宽预估：如果预计访问量大，带宽或存储大，则选择带限额较高的平台（如 Kinsta）或将来考虑付费升级。&lt;/li&gt;
+&lt;li&gt;技术栈需求：如果使用前端框架或需要自动构建流程，则优先选择支持构建、自动更新的平台。&lt;/li&gt;
+&lt;li&gt;自定义域名与 SSL：确认免费方案是否支持自定义域名 + HTTPS，这对品牌与 SEO 很重要。&lt;/li&gt;
+&lt;li&gt;后续扩展能力：开始免费是没问题，但如果后期可能加入动态功能或大流量访问，提前了解升级路径也很重要。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;动态网站：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;根据当前时间环境参数、数据库，动态生成HTML&lt;/li&gt;
+&lt;li&gt;不直接写 HTML（直接翻译成网页内容的代码），而是前端后端结合&lt;/li&gt;
+&lt;li&gt;前端：JavaScript&lt;/li&gt;
+&lt;li&gt;后端：PHP、Java、Python，通过数据库动态展示网页；发展出了Windows Server，还有 Linux 下 LNMP、LAMP、LNMT 的服务器生态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;4.1.3. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;个人博客方案&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;413-个人博客方案&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#413-%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2%e6%96%b9%e6%a1%88&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;本质上是，本地写文档内容，通过Github同步管理，Sphinx/Hugo工具生成静态网页（SSG），再用服务器托管网页&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;方案：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;文档编辑：markdown，reStructuredText for Sphinx, Github 存储同步；编辑内容&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;静态网站生成工具: &lt;strong&gt;&lt;a href=&#34;https://www.sphinx-doc.org/en/master/index.html&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sphinx&lt;/a&gt;&lt;/strong&gt;; &lt;strong&gt;Hugo&lt;/strong&gt;; 编辑主题&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;搭载平台：Github pages; CloudFlare Pages; Readthedocs; Gitbook&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;比较
+&lt;ul&gt;
+&lt;li&gt;Gitbook：主题死板，不灵活&lt;/li&gt;
+&lt;li&gt;Readthedocs + Sphinx：需要reStructuredText语法，文档标题需要为md文件内部一级标题？编号？&lt;/li&gt;
+&lt;li&gt;Hugo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;方案 教程&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugo + Vercel&lt;/li&gt;
+&lt;li&gt;Github pages：用户名.github.io；&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tw93/weekly&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Astro + github pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎯 &lt;a href=&#34;https://juejin.cn/post/7217104536930566204?searchId=2025111401053997897D144CC14EAB9CDC&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github + Sphinx + Readthedocs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎯 &lt;a href=&#34;https://blog.yuhan.tech/p/my-hugo-blog-v2/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github + Hugo/Sphinx + CloudFlare Pages/Github pages&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/zeon-studio/hugoplate&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugoplate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4.2. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;博客要素 方法&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;42-博客要素-方法&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#42-%e5%8d%9a%e5%ae%a2%e8%a6%81%e7%b4%a0-%e6%96%b9%e6%b3%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;4.2.1. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;要素&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;421-要素&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#421-%e8%a6%81%e7%b4%a0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;导航页 （webstack-hugo） + 知识库分类 （博客、document、notebook……）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;分开主题渲染？ 主页 + 子博客，分级展示？&lt;/li&gt;
+&lt;li&gt;嵌套主题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;知识库；数据库；不同账号与服务器交互&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;评论、搜索 等其他功能&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;后台数据功能（Umami）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;页面渲染 自定义风格 主题&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugo Documentation Theme
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gethugothemes.com/hugo-documentation-themes&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;9 Best Hugo Documentation Themes For 2025 (Most Popular)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/alex-shpak/hugo-book&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎯&lt;a href=&#34;https://getdoks.org/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doks&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;样式 &lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20251116155827680.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.docsy.dev/docs/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Docsy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎯&lt;a href=&#34;https://imfing.github.io/hextra/docs/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hextra&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20251116155901663.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;🎯&lt;a href=&#34;https://docdock.netlify.app/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;docdock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hugoblox.com/templates/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docuapi.netlify.app/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;docuapi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;🎯readthedocs&lt;/li&gt;
+&lt;li&gt;自定义主题 基于Hugo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;性能要求&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;快：CDN、CloudFlare Pages&lt;/li&gt;
+&lt;li&gt;自动更新：Github Actions； 构建；&lt;/li&gt;
+&lt;li&gt;版本控制&lt;/li&gt;
+&lt;li&gt;安全性、公开？&lt;/li&gt;
+&lt;li&gt;……&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;数据统计&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;访问量 （&lt;strong&gt;&lt;a href=&#34;https://www.pseudoyu.com/zh/2022/05/21/free_blog_analysis_using_umami_vercel_and_heroku&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;umami&lt;/a&gt;&lt;/strong&gt;）&lt;/li&gt;
+&lt;li&gt;评论 第三方 （&lt;strong&gt;&lt;a href=&#34;https://www.pseudoyu.com/zh/2022/05/24/free_and_lightweight_blog_comment_system_using_cusdis_and_railway&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cusdis&lt;/a&gt;&lt;/strong&gt;）&lt;/li&gt;
+&lt;li&gt;……&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;4.2.2. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;导航页&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;422-导航页&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#422-%e5%af%bc%e8%88%aa%e9%a1%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;WebStack
+&lt;ul&gt;
+&lt;li&gt;案例： &lt;a href=&#34;https://github.com/shenweiyan/WebStack-Hugo&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WebStack-Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;4.2.3. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;搭建案例&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;423-搭建案例&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#423-%e6%90%ad%e5%bb%ba%e6%a1%88%e4%be%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h5&gt;&lt;a href=&#34;https://juejin.cn/post/7217104536930566204?searchId=2025111401053997897D144CC14EAB9CDC&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github + Sphinx + Readthedocs&lt;/a&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;github--sphinx--readthedocs&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#github--sphinx--readthedocs&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;搭建流程&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;注册Readthedocs&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git clone&lt;/code&gt; 笔记仓库&lt;/li&gt;
+&lt;li&gt;安装Sphinx
+&lt;ul&gt;
+&lt;li&gt;CLI：&lt;code&gt;pip install sphinx&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CLI：快速初始化sphinx： &lt;code&gt;sphinx-quickstart&lt;/code&gt;
+&lt;ul&gt;
+&lt;li&gt;目录结构：&lt;/li&gt;
+&lt;li&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;  BOOK
+  ├── build  # 生成的文件的输出目录
+  ├── LICENSE
+  ├── make.bat  # Windows 命令行中编译用的脚本
+  ├── Makefile  # 编译脚本，make 命令编译时用
+  ├── README.md
+  ├── requirements.txt
+  ├── setup.py
+  ├── source  # 存放文档源文件
+  │   ├── conf.py  # 进行 Sphinx 的配置，如主题配置等
+  │   ├── index.rst  # 文档项目起始文件，用于配置文档的显示结构 reStructuredText语法
+  │   ├── _static  # 静态文件目录，比如图片等
+  │   └── _templates  # 模板目录
+  └── tests&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;make html&lt;/code&gt;：生成渲染内容
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;  ├── build
+  │   ├── html
+  │   │   ├── index.html 为生成内容&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;初始效果：&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20251115005020155.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;定制化内容&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;source/conf.py中配置&lt;/li&gt;
+&lt;li&gt;主题
+&lt;ul&gt;
+&lt;li&gt;安装第三方主题&lt;/li&gt;
+&lt;li&gt;安装&lt;code&gt;sphinx_rtd_theme&lt;/code&gt;(Read the Docs Sphinx Theme)：&lt;code&gt;pip install sphinx-rtd-theme&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;安装markdown语法支持插件：&lt;code&gt;pip install myst-parser&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;安装支持mermaid渲染插件: &lt;code&gt;pip install sphinxcontrib.mermaid&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;安装代码块一键复制按钮插件：&lt;code&gt;pip install sphinx_copybutton&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;编辑&lt;strong&gt;conf.py&lt;/strong&gt;配置文件，设置参数：
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;project&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;sphinx_readthedocs_test&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;copyright&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;2025, ZCQ&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;author&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;ZCQ&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;release&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;v0.0.1&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;c1&#34;&gt;# -- General configuration ---------------------------------------------------&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;c1&#34;&gt;# https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;extensions&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s1&#34;&gt;&amp;#39;myst_parser&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s2&#34;&gt;&amp;#34;sphinxcontrib.mermaid&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s2&#34;&gt;&amp;#34;sphinx_copybutton&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;source_suffix&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s1&#34;&gt;&amp;#39;.rst&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;restructuredtext&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s1&#34;&gt;&amp;#39;.txt&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;markdown&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s1&#34;&gt;&amp;#39;.md&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;markdown&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;myst_enable_extensions&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s2&#34;&gt;&amp;#34;tasklist&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s2&#34;&gt;&amp;#34;deflist&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s2&#34;&gt;&amp;#34;dollarmath&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;templates_path&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;_templates&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;exclude_patterns&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;language&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;zh_CN&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;c1&#34;&gt;# -- Options for HTML output -------------------------------------------------&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;c1&#34;&gt;# https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;c1&#34;&gt;# html_theme = &amp;#39;alabaster&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;html_theme&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;sphinx_rtd_theme&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;html_static_path&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;_static&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;html_theme_options&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s1&#34;&gt;&amp;#39;analytics_anonymize_ip&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;False&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s1&#34;&gt;&amp;#39;logo_only&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;True&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s1&#34;&gt;&amp;#39;display_version&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;True&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s1&#34;&gt;&amp;#39;prev_next_buttons_location&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;bottom&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s1&#34;&gt;&amp;#39;style_external_links&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;False&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s1&#34;&gt;&amp;#39;collapse_navigation&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;True&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s1&#34;&gt;&amp;#39;sticky_navigation&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;True&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s1&#34;&gt;&amp;#39;navigation_depth&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s1&#34;&gt;&amp;#39;includehidden&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;True&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s1&#34;&gt;&amp;#39;titles_only&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;False&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;html_logo&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;./_static/Husky.png&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;html_static_path&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;_static&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;n&#34;&gt;html_js_files&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          &lt;span class=&#34;s1&#34;&gt;&amp;#39;my_custom.js&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;生成新内容&lt;code&gt;make html&lt;/code&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;cd&lt;/code&gt;进入build/html/目录下, &lt;code&gt;python -m http.server&lt;/code&gt;开启服务器，&lt;/li&gt;
+&lt;li&gt;效果如下：
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20251115010717618.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;写内容&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;文本内容语法：reStructuredText or Markdown; .rst、.md&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;index.rst是整体文档，在里面添加md文档目录&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;    .. toctree::
+      :maxdepth: 2
+      :caption: Contents:
+
+      md/个人博客.md&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;注意：标题为md文档内的一级标题，而不是文件名；与Gitbook不同；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在source目录下新建文件夹，写其他文档&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;重新构建, 效果如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20251115013125325.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;文档部署&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;部署整体流程&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;自动化流程：Github 通过 Github Actions 自动上传source文件到branch docs；Read the docs 在docs分支变化时，自动读取docs分支，采用sphinx自动构建HTML；本都只需要修改markdown文本文件即可，无需每次都build；&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20251116142730457.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sphinx渲染文档托管到Github&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;生成依赖，用于readthedocs构建需要的环境包 &lt;code&gt;python3 -m pip freeze &amp;gt; requirements.txt&lt;/code&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yml&#34; data-lang=&#34;yml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;sphinx_rtd_theme&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;sphinx_copybutton&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;myst-parser&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;sphinxcontrib.mermaid&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;上传github新分支&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;部署到Read the docs&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;连接到Github&lt;/li&gt;
+&lt;li&gt;导入项目 设置，名称，仓库&amp;ndash;&amp;gt;分支&lt;/li&gt;
+&lt;li&gt;添加&lt;code&gt;.readthedocs.yml&lt;/code&gt;配置文件
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yml&#34; data-lang=&#34;yml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# Read the Docs configuration file&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# See https://docs.readthedocs.io/en/stable/config-file/v2.html for details&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# Required&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# Set the OS, Python version, and other tools you might need&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;build&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;os&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ubuntu-24.04&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tools&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;python&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;3.13&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# Build documentation in the &amp;#34;docs/&amp;#34; directory with Sphinx&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;sphinx&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;configuration&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;source/conf.py&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# Optionally, but recommended,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# declare the Python requirements required to build your documentation&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# See https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;python&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;install&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;requirements&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;requirements.txt&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;自动更新Github Actions&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;流程图
+&lt;ul&gt;
+&lt;li&gt;
+&lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
+      flowchart LR
+        A(文档更改) --提交--&amp;gt; B(main分支) --Actions--&amp;gt; C(&amp;#34;编译，产生html，提交到docs分支&amp;#34;) --&amp;gt; E(&amp;#34;RTD自动编译，更新文档&amp;#34;)
+&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;设置&lt;strong&gt;GitHub actions&lt;/strong&gt; 配置文件&lt;code&gt;.github\workflows\xxx.yml&lt;/code&gt;
+&lt;ul&gt;
+&lt;li&gt;功能：每当main分支改变时执行，将新文档push到docs分支；&lt;/li&gt;
+&lt;li&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yml&#34; data-lang=&#34;yml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;RTD&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;on&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;branches&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;main ]&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;paths&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# 当更改以下文件时，会触发Actions更新文档&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;- &lt;span class=&#34;s1&#34;&gt;&amp;#39;sphinx_readthedocs_test/**&amp;#39;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;- &lt;span class=&#34;s1&#34;&gt;&amp;#39;.github/workflows/Readthedocs.yml&amp;#39;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;- &lt;span class=&#34;s1&#34;&gt;&amp;#39;README.md&amp;#39;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;env&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;REPO_HTTPS&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com/Phoenix0qi/sphinx_readthedocs_test.git&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;CLONE_URL&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;${{ github.event.repository.clone_url }}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;USER_NAME&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;${{ github.event.repository.owner.name }}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;USER_EMAIL&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;${{ github.event.repository.owner.email }}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;SUBMMIT_BRANCH&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;docs&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;PACKAGE_NAME&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;sphinx_readthedocs_test&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;jobs&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;Deploy_TO_RTD&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;runs-on&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ubuntu-latest&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;steps&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;uses&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;actions/checkout@v4&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Set up Python 3.12&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;uses&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;actions/setup-python@v4&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;with&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;            &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;python-version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;3.12.0&amp;#39;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;            &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;architecture&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;x64&amp;#39;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Prepare docs directory&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;sd&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            mkdir -p docs_build
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            # cp -r your_package docs_build/ || true
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            cp -r source docs_build/source || true
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            cp README.md docs_build/ || true
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            cp .readthedocs.yaml docs_build/ || true
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            cp requirements.txt docs_build/ || true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Setup git config&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;sd&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            git config --global user.email &amp;#34;github-actions[bot]@users.noreply.github.com&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            git config --global user.name &amp;#34;github-actions[bot]&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Push to docs branch&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;&lt;span class=&#34;sd&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            cd docs_build
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            git init
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            git checkout -B docs
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            git add .
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            git commit -m &amp;#34;Update docs from main $(date)&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sd&#34;&gt;            git push -f origin docs &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;&lt;strong&gt;Hugo + Github pages + Github Actions&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;hugo--github-pages--github-actions&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hugo--github-pages--github-actions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;参考材料&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cnblogs.com/jzhlin/p/hugo_01.html&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo + Github Action&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;工作整体流程&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251116150001044.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Hugo&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251116153050801.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;什么是Hugo？特点？
+&lt;ul&gt;
+&lt;li&gt;基于Go实现的SSG，支持Markdown；编译网页 比  Jekyll / Hugo / Hexo 快&lt;/li&gt;
+&lt;li&gt;主题丰富
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;git submodule&lt;/code&gt;部署主题&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://themes.gohugo.io/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Themes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;搭建&lt;a href=&#34;https://gohugo.io/installation/windows/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo环境&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Prerequisites
+&lt;ul&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://go.dev/doc/install&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dart Sass
+&lt;ul&gt;
+&lt;li&gt;If you install Hugo as a Snap package there is no need to install Dart Sass. The Hugo Snap package includes Dart Sass.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Prebuilt binaries 安装
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;下载&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;环境变量设置&lt;/li&gt;
+&lt;li&gt;命令行 &lt;code&gt;hugo version&lt;/code&gt; 验证&lt;/li&gt;
+&lt;li&gt;原说明文档
+&lt;ul&gt;
+&lt;li&gt;Prebuilt binaries are available for a variety of operating systems and architectures. Visit the latest release page, and scroll down to the Assets section.
+&lt;ul&gt;
+&lt;li&gt;Download the archive for the desired edition, operating system, and architecture&lt;/li&gt;
+&lt;li&gt;Extract the archive&lt;/li&gt;
+&lt;li&gt;Move the executable to the desired directory&lt;/li&gt;
+&lt;li&gt;Add this directory to the PATH environment variable&lt;/li&gt;
+&lt;li&gt;Verify that you have execute permission on the file&lt;/li&gt;
+&lt;li&gt;Please consult your operating system documentation if you need help setting file permissions or modifying your PATH environment variable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;创建Hugo网站
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;hugo new site blog-test&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cd blog-test&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;里面添加 md 文档即可
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;hugo new xxx.md&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;创建的内容在 &lt;code&gt;content\xxx.md&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;md文档里 draft=false 表示不是草稿&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;为网站添加主题
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;添加主题&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;下载已有主题, 安装&lt;/li&gt;
+&lt;li&gt;自定义主题 &lt;a href=&#34;https://github.com/zeon-studio/hugoplate&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hugoplate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;安装主题&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://imfing.github.io/hextra/docs/getting-started/#prerequisites&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hextra&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;采用&lt;code&gt;Tailwind CSS&lt;/code&gt;类似的实用主义CSS，&lt;/li&gt;
+&lt;li&gt;两种方法安装：Hugo Modules or Git Submodule
+&lt;ul&gt;
+&lt;li&gt;Hugo Modules
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;  hugo new site my-site --format=yaml
+
+  # initialize hugo module
+  cd my-site
+  hugo mod init github.com/username/my-site
+
+  # add Hextra theme
+  hugo mod get github.com/imfing/hextra
+
+  # Create your first content pages 
+  hugo new content/_index.md
+  hugo new content/docs/_index.md
+
+  # Preview the site locally 
+  hugo server --buildDrafts --disableFastRender&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;添加主题到&lt;code&gt;hugo.yaml&lt;/code&gt;文件中
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;    module:
+      imports:
+        - path: github.com/imfing/hextra&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;初始样式
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20251116163120617.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Git Submodule
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;  # 添加 submodule
+  cd myblog
+  git init
+  git submodule add https://github.com/imfing/hextra.git themes/hextra&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;更新主题：
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;git submodule update --init --recursive&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;或者&lt;code&gt;git submodule update --remote&lt;/code&gt; &lt;code&gt;git submodule update --remote themes/hextra&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;修改 hugo.yaml 配置文件
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;theme: hextra&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;组织内容
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20251116164041557.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;_index.md 文件组织页，其他md文档为内容结构；
+&lt;ul&gt;
+&lt;li&gt;目录结构：
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;content
+├── _index.md // &amp;lt;- /
+├── docs
+│   ├── _index.md // &amp;lt;- /docs/
+│   ├── getting-started.md // &amp;lt;- /docs/getting-started/
+│   └── guide
+│       ├── _index.md // &amp;lt;- /docs/guide/
+│       └── organize-files.md // &amp;lt;- /docs/guide/organize-files/
+└── blog
+    ├── _index.md // &amp;lt;- /blog/
+    └── post-1.md // &amp;lt;- /blog/post-1/&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hextra 有三种content格式
+&lt;ul&gt;
+&lt;li&gt;docs、blog、default&lt;/li&gt;
+&lt;li&gt;格式
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Layout&lt;/th&gt;
+          &lt;th&gt;Directory&lt;/th&gt;
+          &lt;th&gt;Features&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;docs&lt;/td&gt;
+          &lt;td&gt;content/docs/&lt;/td&gt;
+          &lt;td&gt;Ideal for structured documentation, same as this section.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;blog&lt;/td&gt;
+          &lt;td&gt;content/blog/&lt;/td&gt;
+          &lt;td&gt;For blog postings, with both listing and detailed article views.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;default&lt;/td&gt;
+          &lt;td&gt;All other directories&lt;/td&gt;
+          &lt;td&gt;Single-page article view without sidebar.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;docs
+&lt;ul&gt;
+&lt;li&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;  ---
+  title: My Docs
+  cascade:
+    type: docs
+  ---&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;The above example configuration ensures that the content files inside &lt;code&gt;content/my-docs/&lt;/code&gt; will be treated as documentation (docs type) by default.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hextra Sidebar Navigation&lt;/li&gt;
+&lt;li&gt;Section Navigation&lt;/li&gt;
+&lt;li&gt;中英文 双版本&lt;/li&gt;
+&lt;li&gt;嵌入视频&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;运行服务&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;hugo server&lt;/code&gt; &lt;code&gt;hugo server --buildDrafts --disableFastRender&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;在&lt;code&gt;http://localhost:1313&lt;/code&gt;访问&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jianzhnie.github.io/post/hugo_site/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;搭载在GitHub Pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Github Actions 自动构建 + deployment
+&lt;ul&gt;
+&lt;li&gt;actions/checkout@v2&lt;/li&gt;
+&lt;li&gt;peaceiris/actions-hugo@v2&lt;/li&gt;
+&lt;li&gt;peaceiris/actions-gh-pages@v3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;&lt;a href=&#34;https://reorx.com/blog/blog-commenting-systems/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数据统计系统&lt;/a&gt;❌&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;数据统计系统&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%95%b0%e6%8d%ae%e7%bb%9f%e8%ae%a1%e7%b3%bb%e7%bb%9f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pseudoyu.com/zh/2022/05/21/free_blog_analysis_using_umami_vercel_and_heroku&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(umami) + Heroku 无免费plan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Netlify 部署服务 + Supabase 部署 PostgreSQL 数据库实例部署&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pseudoyu.com/zh/2024/08/06/deploy_web_statistics_system_using_goatcounter_and_zeabur/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;使用 GoatCounter 与 Zeabur 搭建网站数据统计系统&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google Analytics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;博客评论系统 ✔️&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;博客评论系统-&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%8d%9a%e5%ae%a2%e8%af%84%e8%ae%ba%e7%b3%bb%e7%bb%9f-&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;分类
+&lt;ul&gt;
+&lt;li&gt;Full-fledged: 全功能的评论系统，从前端的 UI 组件到后端的 API、数据存储都完整实现。其下又分为 SaaS 和 Self-hosted 两类。&lt;/li&gt;
+&lt;li&gt;Proxied&lt;/li&gt;
+&lt;li&gt;IM Plugin&lt;/li&gt;
+&lt;li&gt;Static&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pseudoyu.com/zh/2022/05/24/free_and_lightweight_blog_comment_system_using_cusdis_and_railway&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cusdis + Railway&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Railway 无免费plan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pseudoyu.com/zh/2024/07/22/free_commenting_system_using_remark42_and_flyio&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Remark42 + fly.io&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Remark42：
+&lt;ul&gt;
+&lt;li&gt;Remark42特点：
+&lt;ul&gt;
+&lt;li&gt;注重隐私：Remark42 的标语是「Privacy-focused lightweight commenting engine」，而它的确在隐私这件事情上做了许多事情。无追踪和广告自不必说，尽可能少的申请 OAuth 权限也只是基操，Remark42 还对用户数据做了这些考虑：&lt;/li&gt;
+&lt;li&gt;登录丰富， 简单：单纯就配置选项来说比起 Cusdis 还是丰富了不少，目前配置了常用的几种社交账号登录（GitHub、Twitter、Telegram、邮箱）、可以匿名评论、支持邮件订阅回复提醒并且也设置了 TG bot 提醒，并且部署在 fly.io，go 单二进制 + 数据库单文件，很舒服的解决方案，更详细的 Remark42 的介绍和优势可以参看上面那篇文章。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/umputun/remark42&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Remark42 开源代码&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;fly.io
+&lt;ul&gt;
+&lt;li&gt;deploy 工具&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fly.io/docs/flyctl/install/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;安装flyctl命令行工具&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;windows &lt;code&gt;pwsh -Command &amp;quot;iwr https://fly.io/install.ps1 -useb | iex&amp;quot;&lt;/code&gt;, 需要安装最新版&lt;code&gt;powershell&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;授权登录
+&lt;ul&gt;
+&lt;li&gt;cmd &lt;code&gt;flyctl auth login&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;创建应用目录
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20251121201759007.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;mkdir xxx/remark42-on-fly&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cd xxx/remark42-on-fly&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;echo. &amp;gt;fly.toml&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;echo. &amp;gt;prod.env&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;code .&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;配置fly.toml文件
+&lt;ul&gt;
+&lt;li&gt;创建服务 &lt;code&gt;flyctl launch&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;配置环境变量
+&lt;ul&gt;
+&lt;li&gt;配置prod.env文件&lt;/li&gt;
+&lt;li&gt;通知、登录、邮箱 配置&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;fly secrets import &amp;lt; prod.env&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;博客配置 Remark42
+&lt;ul&gt;
+&lt;li&gt;fly.io 部署 Remamrk42 服务器&lt;/li&gt;
+&lt;li&gt;Hugo 配置 Remark42&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;图床 ✔️&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;图床-&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%9b%be%e5%ba%8a-&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pseudoyu.com/zh/2024/06/30/free_image_hosting_system_using_r2_webp_cloud_and_picgo&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;从零开始搭建你的免费图床系统（Cloudflare R2 + WebP Cloud）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pseudoyu.com/zh/2024/07/02/protect_your_image_using_webp_and_cloudflare_waf&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;使用 WebP Cloud 与 Cloudflare WAF 为你的图床添加隐私和版权保护&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cnblogs.com/flydean/p/18138905&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;图床水印：picgo插件 watermark&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;Tags ✔️&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;tags-&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#tags-&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;标签，搜索功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;Last modified 日期✔️&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;last-modified-日期&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#last-modified-%e6%97%a5%e6%9c%9f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;改 layout theme&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;Hugo 内部渲染修改&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;hugo-内部渲染修改&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hugo-%e5%86%85%e9%83%a8%e6%b8%b2%e6%9f%93%e4%bf%ae%e6%94%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;CSS&lt;/li&gt;
+&lt;li&gt;Render Hook In Hugo
+&lt;ul&gt;
+&lt;li&gt;在layout/partials/head.html 直接修改，无需修改内部markdown文件，即可实现渲染自定义；&lt;/li&gt;
+&lt;li&gt;Summary： 利用 hugo 主题的 render hook 的功能，修改 markdown 转换为 html 的样式，通过这种方法更改特定 Markdown 元素的渲染；&lt;/li&gt;
+&lt;li&gt;参考：
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://aikenh.cn/posts/%E4%BF%AE%E6%94%B9hugo%E4%B8%ADmarkdown%E7%9A%84%E5%9F%BA%E7%A1%80%E6%B8%B2%E6%9F%93/#&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;修改 Hugo 中 Markdown 的基础渲染&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/render-hooks/tables/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo 官方 hook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;4.2.4. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;采取的方案&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;424-采取的方案&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#424-%e9%87%87%e5%8f%96%e7%9a%84%e6%96%b9%e6%a1%88&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Hextra（Hugo） + Github Action + Github Pages ✔️
+&lt;ul&gt;
+&lt;li&gt;模板仓库：
+&lt;ul&gt;
+&lt;li&gt;fork hextra，改comment 模板&lt;/li&gt;
+&lt;li&gt;theme: hextra&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;博客内容：
+&lt;ul&gt;
+&lt;li&gt;本地仓库：D:\OneDrive\音乐\吉他\github_test\Hugo_test\myblog&lt;/li&gt;
+&lt;li&gt;GitHub仓库: myblog&lt;/li&gt;
+&lt;li&gt;Github Action 自动部署至 Phoenix0qi.github.io&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;图床仓库：tuchuang
+&lt;ul&gt;
+&lt;li&gt;水印 PicGo watermark&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;sphinx + Github Action + Read the docs 弃用 ❌
+&lt;ul&gt;
+&lt;li&gt;仓库: sphinx_readthedocs_test 弃用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Gitbook 弃用 ❌
+&lt;ul&gt;
+&lt;li&gt;仓库: guitar-learning-notebook 弃用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;5. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;工具&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-工具&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#5-%e5%b7%a5%e5%85%b7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;5.1. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;通用办公&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;51-通用办公&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#51-%e9%80%9a%e7%94%a8%e5%8a%9e%e5%85%ac&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;OBS Studio：录屏&lt;/li&gt;
+&lt;li&gt;yt-dlp_x86.exe：下载视频
+&lt;ul&gt;
+&lt;li&gt;yt-dlp_x86.exe -f &amp;lsquo;xxx.mp4&amp;rsquo; &lt;a href=&#34;https://www.youtube.com/watch?v=dQw4w9WgXcQ&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=dQw4w9WgXcQ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Eagle: 图片素材管理&lt;/li&gt;
+&lt;li&gt;剪映：代替PR&lt;/li&gt;
+&lt;li&gt;handbrake：视频转码&lt;/li&gt;
+&lt;li&gt;noteppad++：记事本&lt;/li&gt;
+&lt;li&gt;total commander：文件管理器&lt;/li&gt;
+&lt;li&gt;ShareX: 截图; OCR&lt;/li&gt;
+&lt;li&gt;FlowLauncher: 启动器; 快捷键：alt + space&lt;/li&gt;
+&lt;li&gt;zotero + 坚果云（或其他支持DevWeb）：文献阅读管理，读书&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;5.2. &lt;a name=&#39;AI&#39;&gt;&lt;/a&gt;AI 工具&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;52-ai-工具&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#52-ai-%e5%b7%a5%e5%85%b7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Toki
+&lt;ul&gt;
+&lt;li&gt;关联Google Calendar 对话管理日程&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;6. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;博主&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;6-博主&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#6-%e5%8d%9a%e4%b8%bb&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pseudoyu.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PseudoYu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.runningcheese.com/image-bed&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;runningcheese&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>伴奏分离</title>
+      <link>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/8.4.%E4%BC%B4%E5%A5%8F%E5%88%86%E7%A6%BB/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/8.4.%E4%BC%B4%E5%A5%8F%E5%88%86%E7%A6%BB/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#1-%e4%bc%b4%e5%a5%8f%e5%88%86%e7%a6%bb%e6%96%b9%e6%a1%88&#34;&gt;1. 伴奏分离方案&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#11-uvr5&#34;&gt;1.1. UVR5&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#111-%e5%88%86%e7%a6%bb%e6%96%b9%e6%b3%95&#34;&gt;1.1.1. 分离方法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#112-%e6%a8%a1%e5%9e%8b%e7%bb%86%e8%8a%82%e7%94%a8%e6%b3%95&#34;&gt;1.1.2. 模型细节用法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#audio-jam-ai-%e5%88%86%e8%bd%a8&#34;&gt;Audio Jam AI 分轨&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#12-%e5%85%b6%e4%bb%96-ai-%e5%b7%a5%e5%85%b7&#34;&gt;1.2. 其他 AI 工具&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;1. &lt;a name=&#39;&#39;&gt;&lt;/a&gt;伴奏分离方案&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-伴奏分离方案&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-%e4%bc%b4%e5%a5%8f%e5%88%86%e7%a6%bb%e6%96%b9%e6%a1%88&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;1.1. &lt;a name=&#39;UVR5https:ultimatevocalremover.com&#39;&gt;&lt;/a&gt;&lt;a href=&#34;https://ultimatevocalremover.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UVR5&lt;/a&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;11-uvr5&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#11-uvr5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Anjok07/ultimatevocalremovergui&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ultimate Vocal Remover GUI v5.6&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/opus/860174897353064448&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;模型介绍&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;1.1.1. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;分离方法&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;111-分离方法&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#111-%e5%88%86%e7%a6%bb%e6%96%b9%e6%b3%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;  CHOOSE PROCESS METHOD：选择处理音频的算法
+
+  VR Architecture：使用幅度频谱图进行音源分离。
+
+  MDX-Net：采用混合频谱网络进行音源分离。
+
+  Demucs：利用混合频谱网络进行音源分离。
+
+  Ensemble Mode：将多个模型和网络的结果组合以获得最佳结果。
+
+  Audio Tools：提供额外的实用工具，以增加便利性。
+
+  GPU Conversion：使用显卡加速处理（强烈建议勾选，CPU计算的速度非常慢）
+
+  Sample Mode (??s) ：只处理??秒的音频，可以预览结果&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;1.1.2. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;模型细节用法&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;112-模型细节用法&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#112-%e6%a8%a1%e5%9e%8b%e7%bb%86%e8%8a%82%e7%94%a8%e6%b3%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;  如果处理算法选择VR Architecture
+
+  WINDOW SIZE：选择窗口大小以平衡质量和速度
+
+  1024 - 快速但质量较低。
+
+  512 - 中等速度和质量。
+
+  320 - 需要更长时间，但可能提供更好的质量。（推荐，实际上慢不了多少）
+
+  AGGRESSION SETTING：调整主音轨提取的强度
+
+  可调范围是[-100, 100]，较大的值意味着更深的提取。
+
+  通常，对于人声和器乐，将其设置为5。
+
+  超过5的值可能会使非人声模型的声音变得混浊。
+
+  下面的选项会随着不同的模型发生变化
+
+  Vocals Only：只提取人声
+
+  Instrumental Only：只提取伴奏
+
+  No Echo Only：只输出去掉混响的音频
+
+  Echo Only：只输出混响部分的音频
+
+  No Noise Only：只输出降噪后的音频
+
+  Noise Only：只输出噪声部分的音频
+
+  如果处理算法选择MDX-Net
+
+  SEGMENT SIZE：调整切片大小
+
+  较小的大小消耗较少的资源。
+
+  较大的大小消耗更多资源，但可能提供更好的结果。
+
+  （默认的256即可，长切片对效果的提升微乎其微）
+
+  OVERLAP：控制预测窗口之间的重叠量
+
+  较高的值可能会提供更好的结果，但会导致更长的处理时间。
+
+  （默认即可，实测没啥提升）
+
+  下面的选项会随着不同的模型发生变化
+
+  Vocals Only：只提取人声
+
+  Instrumental Only：只提取伴奏
+
+  No Reverb Only：只输出去掉混响的音频
+
+  Reverb Only：只输出混响部分的音频
+
+  如果处理算法选择Demucs
+
+  CHOOSE STEM(s)：选择音轨
+
+  Vocals：人声，Bass：贝斯，Drums：鼓，Other：其他乐器
+
+  Guitar：吉他，Piano，钢琴（这两项是v4 | htdemucs_6s模型独占)
+
+  SEGMENT：调整切片大小
+
+  较小的大小消耗较少的资源。
+
+  较大的大小消耗更多资源，但可能提供更好的结果。
+
+  （默认即可，长切片对效果的提升微乎其微）
+
+  如果处理算法选择Ensemble Mode
+
+  MAIN STEM PAIR：选择合奏的音轨类型
+
+  Vocals/Instrumental：主要音轨：人声，次要音轨：伴奏
+
+  Bass/No Bass：主要音轨：贝斯，次要音轨：没有贝斯
+
+  Drums/No Drums：主要音轨：鼓，次要音轨：没有鼓
+
+  Other/No Other：主要音轨：其他，次要音轨：没有其他
+
+  4 Stem Ensemble：汇集所有4音轨Demucs模型并合并所有输出。
+
+  Multi-stem Ensemble：&amp;#34;丛林合奏&amp;#34;汇集所有模型并合并相关的输出。（不是很懂QAQ）
+
+  ENSEMBLE ALGORITHM：选择用于生成最终输出的合奏算法
+
+  例如：Max Spec/Min Spec，斜杠前面的对主要音轨（Primary stem）生效,斜杠后面的对次要音轨（Secondary stem）生效，对于“4音轨合奏（4 Stem Ensemble）”选项，只会显示一个算法。
+
+  详细解释：
+
+  ⚪Max Spec：
+
+  产生可能的最高输出。
+
+  适用于人声音轨，以获得更丰满的声音，但可能会引入不希望的伪影。
+
+  适用于器乐音轨，但请避免在合奏中使用VR Arch模型。
+
+  ⚪Min Spec：
+
+  产生可能的最低输出。
+
+  适用于器乐音轨，以获得更清晰的结果。可能会导致“浑浊”的声音。
+
+  ⚪Average：
+
+  将所有结果取平均以生成最终输出。
+
+  如果处理算法选择Audio Tools
+
+  不做介绍，绝对不是UP懒C= C= C=(っ°Д°;)っ&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Audio Jam AI 分轨&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;audio-jam-ai-分轨&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#audio-jam-ai-%e5%88%86%e8%bd%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;可以分开节奏吉他 和 solo部分&lt;/li&gt;
+&lt;li&gt;参考 麦口罩&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;1.2. &lt;a name=&#39;AI&#39;&gt;&lt;/a&gt;其他 AI 工具&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;12-其他-ai-工具&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#12-%e5%85%b6%e4%bb%96-ai-%e5%b7%a5%e5%85%b7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>效果器-音色</title>
+      <link>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/8.5.%E6%95%88%E6%9E%9C%E5%99%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/8.5.%E6%95%88%E6%9E%9C%E5%99%A8/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#1-%e6%95%88%e6%9e%9c%e5%99%a8&#34;&gt;1. 效果器&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#11-amplitube-5&#34;&gt;1.1. amplitube 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#12-%e7%bb%bc%e5%90%88%e6%95%88%e6%9e%9c%e5%99%a8&#34;&gt;1.2. 综合效果器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#13-%e6%95%88%e6%9e%9c%e5%99%a8%e9%93%be%e8%b7%af&#34;&gt;1.3. 效果器链路&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;1. &lt;a name=&#39;&#39;&gt;&lt;/a&gt;效果器&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-效果器&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-%e6%95%88%e6%9e%9c%e5%99%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;1.1. &lt;a name=&#39;amplitube5&#39;&gt;&lt;/a&gt;amplitube 5&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;11-amplitube-5&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#11-amplitube-5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;CUBASE 记得打开监听&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;1.2. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;综合效果器&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;12-综合效果器&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#12-%e7%bb%bc%e5%90%88%e6%95%88%e6%9e%9c%e5%99%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;BOSS GT-100
+&lt;ul&gt;
+&lt;li&gt;安装diriver，安装Adobe AIR，桌面调节
+&lt;ul&gt;
+&lt;li&gt;Adobe AIR
+&lt;ul&gt;
+&lt;li&gt;二维动画以及普通的互动课件，实现Animate&lt;/li&gt;
+&lt;li&gt;AIR可以开发&lt;strong&gt;多种系统中使用的软件&lt;/strong&gt;，比如普通的Windows系统，移动端系统（安卓系统、IOS系统），只是开发IOS系统的软件需要苹果官方证书才可以。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AIR平台相对于普通的exe打包，有更高的系统权限。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;1.3. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;效果器链路&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;13-效果器链路&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#13-%e6%95%88%e6%9e%9c%e5%99%a8%e9%93%be%e8%b7%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;效果分类&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>电路知识</title>
+      <link>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/8.6.%E7%94%B5%E8%B7%AF%E7%9F%A5%E8%AF%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/8.6.%E7%94%B5%E8%B7%AF%E7%9F%A5%E8%AF%86/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#1-%e7%94%b5%e5%90%89%e4%bb%96%e5%99%a8%e4%bb%b6%e7%94%b5%e8%b7%af&#34;&gt;1. 电吉他器件电路&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#11-%e7%94%b5%e5%90%89%e4%bb%96%e8%bf%9e%e6%8e%a5%e9%93%be%e8%b7%af&#34;&gt;1.1. 电吉他连接链路&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#12-%e9%98%bb%e6%8a%97%e5%8c%b9%e9%85%8d&#34;&gt;1.2. 阻抗匹配&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#13-di%e7%9b%92&#34;&gt;1.3. DI盒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#14-%e9%9f%b3%e9%a2%91%e7%ba%bf&#34;&gt;1.4. 音频线&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;1. &lt;a name=&#39;&#39;&gt;&lt;/a&gt;电吉他器件电路&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-电吉他器件电路&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-%e7%94%b5%e5%90%89%e4%bb%96%e5%99%a8%e4%bb%b6%e7%94%b5%e8%b7%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;1.1. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;电吉他连接链路&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;11-电吉他连接链路&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#11-%e7%94%b5%e5%90%89%e4%bb%96%e8%bf%9e%e6%8e%a5%e9%93%be%e8%b7%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;High/Low Z 高低阻抗接口
+&lt;ul&gt;
+&lt;li&gt;电吉他音箱 / 声卡 输入接口 要阻抗匹配&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251028132904645.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;1.2. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;阻抗匹配&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;12-阻抗匹配&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#12-%e9%98%bb%e6%8a%97%e5%8c%b9%e9%85%8d&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ysolife.com/tone-affected-by-impedance/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电吉他阻抗匹配&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;输入阻抗指一个电路从输入端的看过去的等效阻抗，为前级的负载&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zin = U / I， 在输入端加 U 测 I&lt;/li&gt;
+&lt;li&gt;同样的输入电压的情况下（假定电压一定），如果输入阻抗很低，就需要流过较大电流，这就要考验前级的电流输出能力了&lt;/li&gt;
+&lt;li&gt;Rin 越大，后级获取的信号越大，最大化电压传输&lt;/li&gt;
+&lt;li&gt;后级需要将前级电流信号尽可能放大&lt;/li&gt;
+&lt;li&gt;结论：&lt;strong&gt;后级输入阻抗越大越好，前级输出阻抗越小越好&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;前级： 吉他 / 乐器&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;前级前级输出阻抗越小越好&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://screaminfx.com/tech/why-and-when-to-use-a-guitar-buffer-pedal.htm&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电吉他内部电路&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251028144522491.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;拾音器 == 点源 100mV （切割磁感线发电）
+&lt;ul&gt;
+&lt;li&gt;切割磁感线程度，决定电信号大小&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;E&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mfrac&gt;&lt;mrow&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;Δ&lt;/mi&gt;&lt;mi&gt;ϕ&lt;/mi&gt;&lt;/mrow&gt;&lt;mrow&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;Δ&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;E = \frac{\Delta \phi}{\Delta t}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.05764em;&#34;&gt;E&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1.2772em;vertical-align:-0.345em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mopen nulldelimiter&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mfrac&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.9322em;&#34;&gt;&lt;span style=&#34;top:-2.655em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;Δ&lt;/span&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;t&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.23em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;frac-line&#34; style=&#34;border-bottom-width:0.04em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.4461em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;Δ&lt;/span&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;ϕ&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.345em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose nulldelimiter&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;15k 为吉他内部阻抗&lt;/li&gt;
+&lt;li&gt;1M 为后级电路输入阻抗&lt;/li&gt;
+&lt;li&gt;需求： 相同线圈产生电压相同下，让后级获得更大的电压（只考虑电阻），最大化输出输出功率 还是 输出电压？
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;U&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;mo stretchy=&#34;false&#34;&gt;(&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/msub&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;mo stretchy=&#34;false&#34;&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;U = I(R_0 + R_{in})&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.10903em;&#34;&gt;U&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1em;vertical-align:-0.25em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;I&lt;/span&gt;&lt;span class=&#34;mopen&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3011em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.0077em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1em;vertical-align:-0.25em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3117em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.0077em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;in&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose&#34;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;msub&gt;&lt;mi&gt;U&lt;/mi&gt;&lt;msub&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/msub&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;max U_{R_{in}}, R_{in}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.9334em;vertical-align:-0.2501em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;ma&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.10903em;&#34;&gt;U&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3283em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.109em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3281em;&#34;&gt;&lt;span style=&#34;top:-2.357em;margin-left:-0.0077em;margin-right:0.0714em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.5em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size3 size1 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;in&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.143em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.2501em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3117em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.0077em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;in&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;越大越好&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;msub&gt;&lt;mi&gt;P&lt;/mi&gt;&lt;msub&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;max P_{R_{in}}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.9334em;vertical-align:-0.2501em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;ma&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.13889em;&#34;&gt;P&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3283em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3281em;&#34;&gt;&lt;span style=&#34;top:-2.357em;margin-left:-0.0077em;margin-right:0.0714em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.5em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size3 size1 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;in&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.143em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.2501em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;, 需要 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;R_{in} = R_0&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8333em;vertical-align:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3117em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.0077em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;in&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8333em;vertical-align:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3011em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.0077em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; (降低反射能量……)
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;P&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo stretchy=&#34;false&#34;&gt;(&lt;/mo&gt;&lt;mfrac&gt;&lt;mi&gt;U&lt;/mi&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/msub&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;msup&gt;&lt;mo stretchy=&#34;false&#34;&gt;)&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;∗&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;P = (\frac{U}{R_0 + R_{in}})^2 * R_{in}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.13889em;&#34;&gt;P&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1.3174em;vertical-align:-0.4451em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mopen&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mopen nulldelimiter&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mfrac&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.8723em;&#34;&gt;&lt;span style=&#34;top:-2.655em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3173em;&#34;&gt;&lt;span style=&#34;top:-2.357em;margin-left:-0.0077em;margin-right:0.0714em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.5em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size3 size1 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.143em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mbin mtight&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3281em;&#34;&gt;&lt;span style=&#34;top:-2.357em;margin-left:-0.0077em;margin-right:0.0714em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.5em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size3 size1 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;in&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.143em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.23em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;frac-line&#34; style=&#34;border-bottom-width:0.04em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.394em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.10903em;&#34;&gt;U&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.4451em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose nulldelimiter&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose&#34;&gt;&lt;span class=&#34;mclose&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.8141em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;∗&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8333em;vertical-align:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3117em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.0077em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;in&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;P&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo stretchy=&#34;false&#34;&gt;(&lt;/mo&gt;&lt;mfrac&gt;&lt;mi&gt;U&lt;/mi&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msubsup&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msubsup&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;/&lt;/mi&gt;&lt;msub&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;msub&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo stretchy=&#34;false&#34;&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;P = (\frac{U}{R_{in} + R_0^2 / R_{in} + 2R_0})&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.13889em;&#34;&gt;P&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1.464em;vertical-align:-0.5916em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mopen&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mopen nulldelimiter&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mfrac&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.8723em;&#34;&gt;&lt;span style=&#34;top:-2.6264em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3281em;&#34;&gt;&lt;span style=&#34;top:-2.357em;margin-left:-0.0077em;margin-right:0.0714em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.5em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size3 size1 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;in&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.143em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mbin mtight&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.8051em;&#34;&gt;&lt;span style=&#34;top:-2.1885em;margin-left:-0.0077em;margin-right:0.0714em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.5em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size3 size1 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-2.8448em;margin-right:0.0714em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.5em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size3 size1 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3115em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mord mtight&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3281em;&#34;&gt;&lt;span style=&#34;top:-2.357em;margin-left:-0.0077em;margin-right:0.0714em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.5em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size3 size1 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;in&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.143em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mbin mtight&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;mord mtight&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3173em;&#34;&gt;&lt;span style=&#34;top:-2.357em;margin-left:-0.0077em;margin-right:0.0714em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.5em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size3 size1 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.143em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.23em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;frac-line&#34; style=&#34;border-bottom-width:0.04em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.394em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.10903em;&#34;&gt;U&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.5916em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose nulldelimiter&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose&#34;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;msub&gt;&lt;mi&gt;P&lt;/mi&gt;&lt;msub&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;max P_{R_{in}}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.9334em;vertical-align:-0.2501em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;ma&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.13889em;&#34;&gt;P&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3283em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3281em;&#34;&gt;&lt;span style=&#34;top:-2.357em;margin-left:-0.0077em;margin-right:0.0714em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.5em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size3 size1 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;in&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.143em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.2501em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;, 需要 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;R_{in} = R_0&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8333em;vertical-align:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3117em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.0077em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;in&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8333em;vertical-align:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3011em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.0077em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251028153550678.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;猜测：
+&lt;ul&gt;
+&lt;li&gt;最大化&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;U&lt;/mi&gt;&lt;msub&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;U_{R_{in}}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.9334em;vertical-align:-0.2501em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.10903em;&#34;&gt;U&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3283em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.109em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.00773em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3281em;&#34;&gt;&lt;span style=&#34;top:-2.357em;margin-left:-0.0077em;margin-right:0.0714em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.5em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size3 size1 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;in&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.143em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.2501em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;而不是&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;P&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;P&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.13889em;&#34;&gt;P&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;，电吉他小信号放大，只需要将吉他产生的U尽可能传导到后级即可，因此后级输入阻抗越大越好。&lt;/li&gt;
+&lt;li&gt;最大化P，应该在音箱输出，功率尽可能发送到音箱上，降低反射，因此最大化P，阻抗相近匹配。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;输入阻抗从低到高，听感上最直接的是音量大小，信号细节放大&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;其他乐器、麦克风&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;输出阻抗情况
+&lt;ul&gt;
+&lt;li&gt;麦克风： 50Ω - 600Ω，低&lt;/li&gt;
+&lt;li&gt;吉他、贝斯：&amp;gt;15kΩ, 高&lt;/li&gt;
+&lt;li&gt;效果器：10kΩ，高，与吉他相近，阻抗匹配&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;后级： 声卡 / 效果器 / 音箱&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;后级输入阻抗越大越好&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;UR22C-高阻抗输入部分电路图&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251028135654549.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Hi-Z：输入阻抗提高（1 MΩ），输入阻抗越大，从前级（吉他输出）获得的信号越大&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251028154054560.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;效果器&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;问题：
+&lt;ul&gt;
+&lt;li&gt;输入阻抗不够高：
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251028145541921.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;效果器不一定有这么高的输入阻抗，例如锗晶体Fuzz效果器&lt;/li&gt;
+&lt;li&gt;如Fuzz Face 的输入阻抗只有10K ohm，10K／（10K＋10K），等于只有一半的讯号进入Fuzz Face，另一半则是耗损在拾音器中。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;考虑cable电感
+&lt;ul&gt;
+&lt;li&gt;电感拉低输入阻抗&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251028151151498.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;解决方法
+&lt;ul&gt;
+&lt;li&gt;DI盒&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;音箱&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;输入端 同 声卡，有高阻抗输入接口&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;其他输入输出阻抗&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251028155334263.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;1.3. &lt;a name=&#39;DI&#39;&gt;&lt;/a&gt;DI盒&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;13-di盒&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#13-di%e7%9b%92&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;1.4. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;音频线&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;14-音频线&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#14-%e9%9f%b3%e9%a2%91%e7%ba%bf&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;组成：导线、屏蔽层&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AI music</title>
+      <link>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/8.7.ai-music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/8.7.ai-music/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#1-ai-%e6%96%b9%e6%a1%88&#34;&gt;1. AI 方案&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#11-%e9%9c%80%e6%b1%82&#34;&gt;1.1. 需求&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;1. &lt;a name=&#39;AI&#39;&gt;&lt;/a&gt;AI 方案&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-ai-方案&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-ai-%e6%96%b9%e6%a1%88&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;接触较少，目前以学习音乐本身为主 (251219)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;1.1. &lt;a name=&#39;&#39;&gt;&lt;/a&gt;需求&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;11-需求&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#11-%e9%9c%80%e6%b1%82&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;生成伴奏&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;特定风格、特定和弦走向、特定调、出midi、可变速&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;伴奏分离&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SUNO&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

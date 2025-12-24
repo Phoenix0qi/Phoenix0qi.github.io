@@ -51,8 +51,152 @@
     class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;./2.2.%e6%89%8b%e6%8c%87%e5%9f%ba%e6%9c%ac%e5%8a%9f-%e5%8f%b3%e6%89%8b&#34;
       &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z&#34;/&gt;&lt;/svg&gt;手指基本功-右手&lt;/span&gt;&lt;/a&gt;
   &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;./2.3.%e7%bb%bc%e5%90%88%e9%80%9f%e5%ba%a6%e7%bb%83%e4%b9%a0&#34;
+      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z&#34;/&gt;&lt;/svg&gt;综合速度练习&lt;/span&gt;&lt;/a&gt;
+  &lt;a
     class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;./2.4.%e9%9f%b3%e9%98%b6-%e9%9f%b3-%e9%9f%b3%e7%a8%8b&#34;
       &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z&#34;/&gt;&lt;/svg&gt;音阶-音-音程&lt;/span&gt;&lt;/a&gt; 
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;./2.5.%e5%92%8c%e5%bc%a6-%e6%8c%89%e6%b3%95-%e7%90%b6%e9%9f%b3-%e5%8a%9f%e8%83%bd%e8%89%b2%e5%bd%a9-%e8%b5%b0%e5%90%91&#34;
+      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z&#34;/&gt;&lt;/svg&gt;和弦-按法-琶音-功能色彩-走向&lt;/span&gt;&lt;/a&gt; 
+&lt;/div&gt;
+
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-amber-200 hx:bg-amber-100 hx:text-amber-900 hx:dark:border-amber-200/30 hx:dark:bg-amber-900/30 hx:dark:text-amber-200&#34;&gt;
+  &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;svg height=1.2em class=&#34;hx:inline-block hx:align-middle&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
+    &lt;div class=&#34;hx:mt-6 hx:leading-7 hx:first:mt-0&#34;&gt;GTP文件，视频，剪辑 放在 Guitar-Learning-Notebook 仓库；不在Hugo博客内显示&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>演奏技巧</title>
+      <link>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E6%BC%94%E5%A5%8F%E6%8A%80%E5%B7%A7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E6%BC%94%E5%A5%8F%E6%8A%80%E5%B7%A7/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#1-%e6%8a%80%e6%9c%af%e5%88%86%e7%b1%bb&#34;&gt;1. 技术分类&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#11-%e9%80%9a%e7%94%a8%e6%8a%80%e5%b7%a7&#34;&gt;1.1. 通用技巧&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#111-%e5%87%bb%e5%8b%be%e5%bc%a6-legato&#34;&gt;1.1.1. 击勾弦 Legato&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#112-%e6%8e%a8%e7%ba%bf-bend&#34;&gt;1.1.2. 推线 bend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#113-%e5%88%b6%e9%9f%b3-&#34;&gt;1.1.3. 制音 ？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#114-%e4%ba%ba%e5%b7%a5%e6%b3%9b%e9%9f%b3-&#34;&gt;1.1.4. 人工泛音 ？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#115-sweep-%e7%bb%8f%e6%b5%8e%e6%8b%a8%e5%bc%a6-%e4%ba%a4%e6%9b%bf%e6%8b%a8%e5%bc%a6-%e5%8f%82%e8%80%83%e5%8f%b3%e6%89%8b%e7%bb%83%e4%b9%a0&#34;&gt;1.1.5. Sweep 经济拨弦； 交替拨弦； 参考右手练习&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#116-%e7%82%b9%e5%bc%a6&#34;&gt;1.1.6. 点弦&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#12-%e5%a4%a7%e5%b8%88%e9%a3%8e%e6%a0%bc%e6%8a%80%e5%b7%a7&#34;&gt;1.2. 大师风格技巧&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#121-asato&#34;&gt;1.2.1. Asato&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#122-tim-henson&#34;&gt;1.2.2. Tim Henson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#123-&#34;&gt;1.2.3. ……&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;1. &lt;a name=&#39;&#39;&gt;&lt;/a&gt;技术分类&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-技术分类&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-%e6%8a%80%e6%9c%af%e5%88%86%e7%b1%bb&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;基础技巧，参考左右手基本功《GG-1》&lt;/li&gt;
+&lt;li&gt;高阶技巧，单列；
+&lt;ul&gt;
+&lt;li&gt;参考《GG-2》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;特定大师风格技巧，单列；
+&lt;ul&gt;
+&lt;li&gt;lick library; 扒带记录 后 总结梳理在这；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;1.1. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;通用技巧&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;11-通用技巧&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#11-%e9%80%9a%e7%94%a8%e6%8a%80%e5%b7%a7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;1.1.1. &lt;a name=&#39;Legato&#39;&gt;&lt;/a&gt;击勾弦 Legato&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;111-击勾弦-legato&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#111-%e5%87%bb%e5%8b%be%e5%bc%a6-legato&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;1.1.2. &lt;a name=&#39;bend&#39;&gt;&lt;/a&gt;推线 bend&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;112-推线-bend&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#112-%e6%8e%a8%e7%ba%bf-bend&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;1.1.3. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;制音 ？&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;113-制音-&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#113-%e5%88%b6%e9%9f%b3-&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;1.1.4. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;人工泛音 ？&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;114-人工泛音-&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#114-%e4%ba%ba%e5%b7%a5%e6%b3%9b%e9%9f%b3-&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;1.1.5. &lt;a name=&#39;Sweep&#39;&gt;&lt;/a&gt;Sweep 经济拨弦； 交替拨弦； 参考右手练习&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;115-sweep-经济拨弦-交替拨弦-参考右手练习&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#115-sweep-%e7%bb%8f%e6%b5%8e%e6%8b%a8%e5%bc%a6-%e4%ba%a4%e6%9b%bf%e6%8b%a8%e5%bc%a6-%e5%8f%82%e8%80%83%e5%8f%b3%e6%89%8b%e7%bb%83%e4%b9%a0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;1.1.6. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;点弦&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;116-点弦&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#116-%e7%82%b9%e5%bc%a6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;八指点弦&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;1.2. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;大师风格技巧&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;12-大师风格技巧&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#12-%e5%a4%a7%e5%b8%88%e9%a3%8e%e6%a0%bc%e6%8a%80%e5%b7%a7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;1.2.1. &lt;a name=&#39;Asato&#39;&gt;&lt;/a&gt;Asato&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;121-asato&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#121-asato&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;1.2.2. &lt;a name=&#39;TimHenson&#39;&gt;&lt;/a&gt;Tim Henson&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;122-tim-henson&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#122-tim-henson&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;1.2.3. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;……&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;123-&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#123-&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;!-- &lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;./2.1.%e6%89%8b%e6%8c%87%e7%8b%ac%e7%ab%8b%e6%80%a7-%e7%88%ac%e6%a0%bc%e5%ad%90%e5%b7%a6%e6%89%8b&#34;
+      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;M12 14l9-5-9-5-9 5 9 5z&#34;/&gt;&lt;path d=&#34;M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z&#34;/&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222&#34;/&gt;&lt;/svg&gt;手指独立性-爬格子左手&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+ --&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>乐句_lick_library</title>
+      <link>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E4%B9%90%E5%8F%A5_lick_library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E4%B9%90%E5%8F%A5_lick_library/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;按风格、音阶、作者分类&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;按风格音阶作者分类&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%8c%89%e9%a3%8e%e6%a0%bc%e9%9f%b3%e9%98%b6%e4%bd%9c%e8%80%85%e5%88%86%e7%b1%bb&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;参考 《大师风格曲目》分类&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;pentatonic 练习&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Blues&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BBKing&lt;/li&gt;
+&lt;li&gt;SRV&lt;/li&gt;
+&lt;li&gt;……&lt;/li&gt;
+&lt;li&gt;John Mayer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fusion&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GG&lt;/li&gt;
+&lt;li&gt;……&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jazz&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bossa&lt;/li&gt;
+&lt;li&gt;……&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;licks&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;licks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#licks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;每周一舔👅，每日一舔🥵&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;每周一舔每日一舔&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%af%8f%e5%91%a8%e4%b8%80%e8%88%94%e6%af%8f%e6%97%a5%e4%b8%80%e8%88%94&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;五声音阶 + 重音移位
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251101220402640.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;./Blues&#34;
+      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;M12 14l9-5-9-5-9 5 9 5z&#34;/&gt;&lt;path d=&#34;M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z&#34;/&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222&#34;/&gt;&lt;/svg&gt;Blues licks ...&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 
@@ -72,6 +216,70 @@
   &lt;a
     class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;./%e5%a4%a7%e5%b8%88%e9%a3%8e%e6%a0%bc-%e4%b8%93%e8%be%91-%e6%9b%b2%e7%9b%ae&#34;
       &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;M12 14l9-5-9-5-9 5 9 5z&#34;/&gt;&lt;path d=&#34;M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z&#34;/&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222&#34;/&gt;&lt;/svg&gt;大师风格-专辑-曲目-分类&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>风格特训</title>
+      <link>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E9%A3%8E%E6%A0%BC%E7%89%B9%E8%AE%AD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E9%A3%8E%E6%A0%BC%E7%89%B9%E8%AE%AD/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;风格特训&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;风格特训&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%a3%8e%e6%a0%bc%e7%89%b9%e8%ae%ad&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;不同风格曲子笔记
+&lt;ul&gt;
+&lt;li&gt;按风格分类，参考几本 风格专著&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- &lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;./2.1.%e6%89%8b%e6%8c%87%e7%8b%ac%e7%ab%8b%e6%80%a7-%e7%88%ac%e6%a0%bc%e5%ad%90%e5%b7%a6%e6%89%8b&#34;
+      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;M12 14l9-5-9-5-9 5 9 5z&#34;/&gt;&lt;path d=&#34;M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z&#34;/&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222&#34;/&gt;&lt;/svg&gt;手指独立性-爬格子左手&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+ --&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>软件_电路_音色_工具</title>
+      <link>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/</guid>
+      <description>
+        
+        
+        &lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;./8.1.Guitarpro8&#34;
+      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;M12 14l9-5-9-5-9 5 9 5z&#34;/&gt;&lt;path d=&#34;M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z&#34;/&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222&#34;/&gt;&lt;/svg&gt;Guitar Pro 8&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;./8.2.%e6%8c%87%e6%9d%bf%e5%8f%af%e8%a7%86%e5%8c%96&#34;
+      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;M12 14l9-5-9-5-9 5 9 5z&#34;/&gt;&lt;path d=&#34;M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z&#34;/&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222&#34;/&gt;&lt;/svg&gt;软件开发-指板可视化&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;./8.3.%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2%e6%90%ad%e5%bb%ba&#34;
+      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;M12 14l9-5-9-5-9 5 9 5z&#34;/&gt;&lt;path d=&#34;M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z&#34;/&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222&#34;/&gt;&lt;/svg&gt;个人博客搭建&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;./8.4.%e4%bc%b4%e5%a5%8f%e5%88%86%e7%a6%bb&#34;
+      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;M12 14l9-5-9-5-9 5 9 5z&#34;/&gt;&lt;path d=&#34;M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z&#34;/&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222&#34;/&gt;&lt;/svg&gt;伴奏分离&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;./8.5.%e6%95%88%e6%9e%9c%e5%99%a8&#34;
+      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;M12 14l9-5-9-5-9 5 9 5z&#34;/&gt;&lt;path d=&#34;M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z&#34;/&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222&#34;/&gt;&lt;/svg&gt;音色-效果器&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;./8.6.%e7%94%b5%e8%b7%af%e7%9f%a5%e8%af%86&#34;
+      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;M12 14l9-5-9-5-9 5 9 5z&#34;/&gt;&lt;path d=&#34;M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z&#34;/&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222&#34;/&gt;&lt;/svg&gt;电路知识&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;./8.7.AI%20music&#34;
+      &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:p-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;M12 14l9-5-9-5-9 5 9 5z&#34;/&gt;&lt;path d=&#34;M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z&#34;/&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222&#34;/&gt;&lt;/svg&gt;AI music&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 
