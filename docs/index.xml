@@ -15,26 +15,6 @@
     
     
     <item>
-      <title>17 - 椎名林檎</title>
-      <link>https://phoenix0qi.github.io/music/%E6%89%92%E5%B8%A6%E8%AE%B0%E5%BD%95/songs/17---%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://phoenix0qi.github.io/music/%E6%89%92%E5%B8%A6%E8%AE%B0%E5%BD%95/songs/17---%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Tags&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;tags&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#tags&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;椎名林檎&lt;/li&gt;
-&lt;li&gt;Jpop&lt;/li&gt;
-&lt;li&gt;2000&lt;/li&gt;
-&lt;li&gt;流行&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>GG_CG_1</title>
       <link>https://phoenix0qi.github.io/music/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/cg_gg/gg_cg_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -622,6 +602,13 @@
 &lt;h4&gt;4.1.4. &lt;a name=&#39;TheCAGEDSystem&#39;&gt;&lt;/a&gt;The CAGED System&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;414-the-caged-system&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#414-the-caged-system&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;
+&lt;p&gt;参考材料&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;《GG-1》&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learn.powmusic.co/p/my-downloadable-13022&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;POW Music - CAGED Sheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;CAGED system 是什么；用途；&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;一种可视化指板关系的方法
@@ -643,27 +630,47 @@
 &lt;li&gt;
 &lt;p&gt;CAGED指形&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;记住根音位置！open shapes&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;（Major Chords）相对关系图&lt;/p&gt;
+&lt;li&gt;记住根音位置！open shapes&lt;/li&gt;
+&lt;li&gt;（Major Chords）相对关系图
 &lt;ul&gt;
-&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20250914170719347.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20250914171154372.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251025143342423.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251025145630291.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt; (&lt;a href=&#34;https://www.youtube.com/watch?v=0V_dF8soKpc&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=0V_dF8soKpc&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;（Minor Chords）相对关系图&lt;/p&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; &gt;
+  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx:text-lg&#34;&gt;MORE CAGED MAJOR SHAPES&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20250914170719347.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20250914171154372.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251025145630291.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt; (&lt;a href=&#34;https://www.youtube.com/watch?v=0V_dF8soKpc&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=0V_dF8soKpc&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20250914172413797.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;（Minor Chords）相对关系图
+&lt;ul&gt;
 &lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251025143349326.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; &gt;
+  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx:text-lg&#34;&gt;MORE CAGED MINOR SHAPES&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20250914172413797.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251025144641382.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt; (&lt;a href=&#34;https://www.youtube.com/watch?v=0V_dF8soKpc&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=0V_dF8soKpc&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://learn.powmusic.co/p/my-downloadable-13022&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;POW Music - CAGED Sheet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;（Major scale and Penta pattern）&lt;/p&gt;
 &lt;ul&gt;
@@ -682,9 +689,9 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;单个和弦 不同转位 Single Chord Triads &amp;amp; Inversions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 单个和弦 不同转位 Single Chord Triads &amp;amp; Inversions&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;固定琴弦，水平移动。&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;1.1 固定琴弦，水平移动。&lt;/strong&gt;
 &lt;ul&gt;
 &lt;li&gt;弦：123、234、345、456弦，平行移动，不同转位，添加音节音过度；&lt;/li&gt;
 &lt;li&gt;音：135、351、513、135。 琶音 + 柱式。&lt;/li&gt;
@@ -692,7 +699,7 @@
 &lt;li&gt;&lt;strong&gt;总计&lt;/strong&gt;： 四组弦 × 四个转位 × 7个和弦(调内大CM、小Am) = 112&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;固定区域，垂直移动。 琶音。&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;1.2 固定区域，垂直移动。 琶音。&lt;/strong&gt;
 &lt;ul&gt;
 &lt;li&gt;例 C major&lt;/li&gt;
 &lt;li&gt;C shape
@@ -710,13 +717,13 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;不同和弦 Chord Progression&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 不同和弦 Chord Progression&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;mi&gt;V&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;V&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;I - IV - V&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7667em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;I&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7667em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;I&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.22222em;&#34;&gt;V&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.22222em;&#34;&gt;V&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;，&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;v&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;V&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;I - vi - ii- V&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7667em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;I&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7429em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.03588em;&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7429em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;ii&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.22222em;&#34;&gt;V&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;，&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;V&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;ii- V - I&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7429em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;ii&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7667em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.22222em;&#34;&gt;V&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;I&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;,  &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;mi&gt;V&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;V&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;I - ii - iii - IV - V&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7667em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;I&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7429em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;ii&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7429em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;iii&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7667em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;I&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.22222em;&#34;&gt;V&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.22222em;&#34;&gt;V&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 整个neck弹奏
+&lt;li&gt;&lt;strong&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;mi&gt;V&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;V&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;I - IV - V&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7667em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;I&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7667em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;I&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.22222em;&#34;&gt;V&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.22222em;&#34;&gt;V&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;，&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;v&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;V&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;I - vi - ii- V&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7667em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;I&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7429em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.03588em;&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7429em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;ii&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.22222em;&#34;&gt;V&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;，&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;V&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;ii- V - I&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7429em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;ii&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7667em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.22222em;&#34;&gt;V&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;I&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;,  &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;I&lt;/mi&gt;&lt;mi&gt;V&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;V&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;v&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mi&gt;v&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;I - ii - iii - IV - V - vi - vii&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7667em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;I&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7429em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;ii&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7429em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;iii&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7667em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.07847em;&#34;&gt;I&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.22222em;&#34;&gt;V&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7667em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.22222em;&#34;&gt;V&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7429em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.03588em;&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.6595em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.03588em;&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;ii&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 整个neck弹奏&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;Barre Chords
+&lt;li&gt;&lt;strong&gt;2.1 Barre Chords&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;Barre Chords 完整和弦
+&lt;li&gt;&lt;strong&gt;2.1.1 Barre Chords 完整和弦&lt;/strong&gt;
 &lt;ul&gt;
 &lt;li&gt;直接弹完整的和弦，可能反应不过来每个音是什么&lt;/li&gt;
 &lt;li&gt;CAGED block 循环演奏，整体就近&lt;/li&gt;
@@ -724,7 +731,7 @@
 &lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20250914171843354.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Barre Chords 低音连接
+&lt;li&gt;&lt;strong&gt;2.1.2 Barre Chords 低音连接&lt;/strong&gt;
 &lt;ul&gt;
 &lt;li&gt;CAGED block 低音 根音 或 根音五度  +  音阶连接到下一个和弦根音&lt;/li&gt;
 &lt;li&gt;1）根音音阶连接&lt;/li&gt;
@@ -733,7 +740,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Triads
+&lt;li&gt;&lt;strong&gt;2.2 Triads&lt;/strong&gt;
 &lt;ul&gt;
 &lt;li&gt;相同琴弦，就近&lt;/li&gt;
 &lt;li&gt;Triads 每三根弦 1-4-5……&lt;/li&gt;
@@ -760,8 +767,6 @@
 &lt;/li&gt;
 &lt;li&gt;和弦切换，重音落入对的音&lt;/li&gt;
 &lt;li&gt;旋律连贯性，flow，&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -1646,25 +1651,6 @@ z&lt;/li&gt;
     </item>
     
     <item>
-      <title>September - Earth, Wind and Fire</title>
-      <link>https://phoenix0qi.github.io/music/%E6%89%92%E5%B8%A6%E8%AE%B0%E5%BD%95/songs/september---earth-wind-and-fire/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://phoenix0qi.github.io/music/%E6%89%92%E5%B8%A6%E8%AE%B0%E5%BD%95/songs/september---earth-wind-and-fire/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Tags&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;tags&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#tags&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Funk&lt;/li&gt;
-&lt;li&gt;Disco&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>听力练习</title>
       <link>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E5%90%AC%E5%8A%9B/%E5%90%AC%E5%8A%9B%E7%BB%83%E4%B9%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2370,31 +2356,43 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
     &lt;a href=&#34;#111-%e4%b8%8d%e5%90%8c%e9%a1%ba%e5%ba%8f%e7%bb%84%e5%90%88&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;蜘蛛爬格子练习（CG-GG）
 &lt;ul&gt;
-&lt;li&gt;24中变化；6种顺序基本指形，每种4个重音变化；　4!=24&lt;/li&gt;
-&lt;li&gt;顺序
+&lt;li&gt;
+&lt;p&gt;24中变化；6种顺序基本指形，每种4个重音变化；　4!=24&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;顺序&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20250824103022195.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;🎯 1234 &amp;amp; 4321 120bpm 一口气12品上下循环热身；练习耐力；4321 练习左手肌肉
 &lt;ul&gt;
-&lt;li&gt;1234：120bpm✔️ 160bpm✔️ 180bpm✔️ 190bpm✔️(251223)&lt;/li&gt;
-&lt;li&gt;4321：120bpm✔️ 160bpm✔️(251223)&lt;/li&gt;
+&lt;li&gt;🎯 1234：120bpm✔️ 160bpm✔️ 180bpm✔️ 190bpm✔️(251223)&lt;/li&gt;
+&lt;li&gt;🎯 4321：120bpm✔️ 160bpm✔️(251223)&lt;/li&gt;
+&lt;li&gt;乔伊半音阶
+&lt;ul&gt;
+&lt;li&gt;1234-4321 &lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251103231510082.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;🎯 上下混合：1234上-4321下 热身用 &lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251103231557563.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;跨弦
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;跨弦&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20250824103238249.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;120bpm✔️ &lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20250824103248365.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20250824103303913.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;🎯&lt;strong&gt;四个变化，每拍改变重音手指&lt;/strong&gt;
+&lt;li&gt;
+&lt;p&gt;🎯&lt;strong&gt;四个变化，每拍改变重音手指&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;120bpm✔️(251223) &lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20250824103311711.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;🎯&lt;strong&gt;固定食指，6种基本指形，快速切换&lt;/strong&gt;
+&lt;li&gt;
+&lt;p&gt;🎯&lt;strong&gt;固定食指，6种基本指形，快速切换&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;110bpm✔️ 120bpm✔️(251223) &lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20250824103322645.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -2418,13 +2416,6 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;🎯 120bpm✔️ 140bpm✔️ 160bpm✔️ &lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20250824103417895.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20250824103427138.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;乔伊半音阶&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;1234-4321 &lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251103231510082.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;1234上-4321下 热身用 &lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251103231557563.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -2453,7 +2444,7 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;1434 - 2434（BOHAN）&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;🎯🎯 100bpm✔️ 120bpm✔️ &lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20250824105923416.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;🎯 100bpm✔️ 120bpm✔️ &lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20250824105923416.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;1323 – 4323（365吉他）&lt;/strong&gt;
@@ -2463,7 +2454,7 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;1424 3414 2434 1434 （地狱5-1）
 &lt;ul&gt;
-&lt;li&gt;🎯🎯 90bpm  &lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20250824110209688.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;🎯 90bpm  &lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20250824110209688.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;21-31-41-31-32-42-43-42（乔伊速度-8）
@@ -2678,7 +2669,11 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;#142-%e7%bb%83%e4%b9%a0%e6%84%9f%e6%82%9f&#34;&gt;1.4.2. 练习感悟&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#15-%ef%b8%8f-%e9%98%b6%e6%ae%b5%e6%89%93%e5%8d%a1%e6%80%bb%e8%a1%a8&#34;&gt;1.5. 🗓️ 阶段打卡总表&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#15--202601%e7%bb%83%e4%b9%a0%e8%ae%b0%e5%bd%95&#34;&gt;1.5. 🎯 202601练习记录&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#151--%e7%bb%83%e4%b9%a0%e9%87%8d%e7%82%b9&#34;&gt;1.5.1.  练习重点：&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#2-%e5%90%8e%e7%bb%ad%e8%ae%a1%e5%88%92---202512%e5%9f%ba%e7%a1%80%e4%b8%8a&#34;&gt;2. 后续计划 - 202512基础上&lt;/a&gt;
@@ -2884,7 +2879,7 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;h3&gt;1.3. &lt;a name=&#39;202511&#39;&gt;&lt;/a&gt;🎯 202511练习记录&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;13--202511练习记录&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#13--202511%e7%bb%83%e4%b9%a0%e8%ae%b0%e5%bd%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;1.3.1. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt; 练习重点：&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;131--练习重点&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#131--%e7%bb%83%e4%b9%a0%e9%87%8d%e7%82%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E5%9F%BA%E6%9C%AC%E5%8A%9F_%E6%8C%87%E6%9D%BF_%E9%9F%B3%E9%98%B6_%E5%92%8C%E5%BC%A6/2.1.%E6%89%8B%E6%8C%87%E7%8B%AC%E7%AB%8B%E6%80%A7-%E7%88%AC%E6%A0%BC%E5%AD%90%E5%B7%A6%E6%89%8B/&#34;&gt;左手机能&lt;/a&gt;&lt;/strong&gt;；内容少，细致，效果显著！
+&lt;li&gt;**&lt;a href=&#34;https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E5%9F%BA%E6%9C%AC%E5%8A%9F_%E6%8C%87%E6%9D%BF_%E9%9F%B3%E9%98%B6_%E5%92%8C%E5%BC%A6/2.1.%E6%89%8B%E6%8C%87%E7%8B%AC%E7%AB%8B%E6%80%A7-%E7%88%AC%E6%A0%BC%E5%AD%90%E5%B7%A6%E6%89%8B/&#34;&gt;左手机能&lt;/a&gt;**为主；内容少，细致，效果显著！
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -2932,7 +2927,8 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;h3&gt;1.4. &lt;a name=&#39;202512&#39;&gt;&lt;/a&gt;🎯 202512练习记录&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;14--202512练习记录&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#14--202512%e7%bb%83%e4%b9%a0%e8%ae%b0%e5%bd%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;1.4.1. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt; 练习重点：&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;141--练习重点&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#141--%e7%bb%83%e4%b9%a0%e9%87%8d%e7%82%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;记忆指板&lt;/strong&gt;；拓展性；(&lt;strong&gt;音程 + CAGED + 五声音阶&lt;/strong&gt; + 三和弦traids) * 12个调，记忆音名，识五线谱；音乐鉴赏；扩展视野；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;记忆指板，解锁地图&lt;/strong&gt;；&lt;strong&gt;指板拓展性&lt;/strong&gt;；(&lt;strong&gt;音程 + CAGED + 五声音阶&lt;/strong&gt; + 三和弦traids) * 12个调，记忆音名，识五线谱；音乐鉴赏；扩展视野；&lt;/li&gt;
+&lt;li&gt;需要动脑🧠&lt;/li&gt;
 &lt;/ul&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -2947,56 +2943,56 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;strong&gt;1. 听力&lt;/strong&gt;&lt;/td&gt;
           &lt;td&gt;1. &lt;a href=&#34;https://www.youtube.com/watch?v=XLut-Ckq8hw&amp;amp;list=WL&amp;amp;index=2&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;notes 听音级训练 SONOFIELD&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;每天 20 min （班车）&lt;/td&gt;
-          &lt;td&gt;✔️ 自然大调 90%+&lt;/td&gt;
+          &lt;td&gt;⏰ 每天 20 min （班车）&lt;/td&gt;
+          &lt;td&gt;✔️ 自然大调 28/30； 自然小调 25/30；&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;strong&gt;2. 吉他基本功&lt;/strong&gt;&lt;/td&gt;
           &lt;td&gt;1. 指板热身 《GG》 + 《地狱吉他1》+《乔伊速度》左手&lt;/td&gt;
-          &lt;td&gt;每天 30 min&lt;/td&gt;
-          &lt;td&gt;✔️&lt;/td&gt;
+          &lt;td&gt;⏰ 每天 30 min&lt;/td&gt;
+          &lt;td&gt;✔️ 艰难依旧坚持，最后练，不费脑子&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
           &lt;td&gt;2. 唱+弹 顺阶音程(林朔) + 横向音程(GG) + 音程模进(GG) (首调音程 思考音名 绝对发射)　12-13&amp;hellip; × 5 or 12-13&amp;hellip; 22-23 &amp;hellip; × 5&lt;/td&gt;
-          &lt;td&gt;每天 30 min 每天一个调；&lt;br&gt; 音名+五线谱+吉他指形/box 同时练习　&lt;/td&gt;
-          &lt;td&gt;❌&lt;/td&gt;
+          &lt;td&gt;⏰ 每天 30 min 每天一个调；&lt;br&gt; 音名+五线谱+吉他指形/box 同时练习　&lt;/td&gt;
+          &lt;td&gt;❌ 一个调时间太久，来不及练其他调，争取30min内； &lt;br&gt;❌ 先掌握一个调的相对关系，再练不同调音名-音级对应； &lt;br&gt;⏳ 下个月继续&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;strong&gt;3. 乐理/指板&lt;/strong&gt;&lt;/td&gt;
           &lt;td&gt;指板记忆训练 - 核心：《GG-1》CAGED(三和弦traids) + 五声音阶&lt;/td&gt;
           &lt;td&gt;一天一个调&lt;/td&gt;
-          &lt;td&gt;❌&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
           &lt;td&gt;1. 《Pow Music》CAGED 单个和弦 traids 3根弦 1）横向移动 添加调内经过音 + 转位 2）纵向垂直移动&lt;/td&gt;
-          &lt;td&gt;每天 10 min&lt;/td&gt;
-          &lt;td&gt;❌&lt;/td&gt;
+          &lt;td&gt;⏰ 每天 30 min&lt;/td&gt;
+          &lt;td&gt;✔️ 1/2 单个大三和弦 各种组合琶音：[紧凑/扩张 135/153] * [CAGED 五个位置 横向/纵向] * [跨弦/相邻弦] &lt;br&gt;❌ 一个大三和弦练习2h太久，综合终极琶音，梳理后再有条理地练 &lt;br&gt;⏳ 下个月练小三和弦 + 大三和弦 CAGED 巩固&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
           &lt;td&gt;2. &lt;strong&gt;《GG-1》CAGED 常见走向 Barre Chords 就近&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;❌&lt;/td&gt;
+          &lt;td&gt;⏰ 30min&lt;/td&gt;
+          &lt;td&gt;✔️ 5种走向 &lt;br&gt; ✔️ 低音五度+调内经过音; ❌ 根音下行的转位欠缺 ⏳ 继续练转位就近连接&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
           &lt;td&gt;3. 《Pow Music》CAGED 常见走向 traids就近&lt;/td&gt;
           &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;❌&lt;/td&gt;
+          &lt;td&gt;❌ 没来得及练 ⏳ 继续练 traids 就近&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
           &lt;td&gt;4. 《GG-1》五声音阶 推弦 box*5 顺序&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;❌&lt;/td&gt;
+          &lt;td&gt;⏰ 3min&lt;/td&gt;
+          &lt;td&gt;✔️&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
           &lt;td&gt;5. 《GG-1》五声音阶 横向跨越box *2  （link shapes together）&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;❌&lt;/td&gt;
+          &lt;td&gt;⏰ 3min&lt;/td&gt;
+          &lt;td&gt;✔️&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
@@ -3013,14 +3009,14 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;strong&gt;4. Cover&lt;/strong&gt;&lt;/td&gt;
           &lt;td&gt;1. 扒带-粗扒-cover or lick-视频（定调 + 和弦 + 旋律）+ 即兴   &lt;br&gt;《17》- 椎名林檎&lt;/td&gt;
-          &lt;td&gt;每周 1 首&lt;/td&gt;
-          &lt;td&gt;❌&lt;/td&gt;
+          &lt;td&gt;⏰ 每周 1 首&lt;/td&gt;
+          &lt;td&gt;✔️ 17&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;strong&gt;4. 音乐鉴赏，文化学习&lt;/strong&gt;&lt;/td&gt;
           &lt;td&gt;1. 听歌  &lt;br&gt; - Guitarist 250 &lt;br&gt; - Guthrie Govan &amp;amp; the Aristocrats &lt;br&gt; - Paul Gilbert &lt;br&gt; - Frank Gambale&lt;/td&gt;
           &lt;td&gt;你就听吧   音乐文化！音乐鉴赏！多听！多看！&lt;/td&gt;
-          &lt;td&gt;❌&lt;/td&gt;
+          &lt;td&gt;✔️ Guthrie Govan&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -3036,30 +3032,68 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
   &lt;/summary&gt;
   &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
     &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;解锁指板&lt;/p&gt;
+&lt;li&gt;⚠️ 解锁指板
 &lt;ul&gt;
-&lt;li&gt;每天把每个音/音程 照顾一般&lt;/li&gt;
-&lt;li&gt;随机出调内音名，音名反应音级、和弦CAGED五个位置按法
+&lt;li&gt;每天把 &lt;strong&gt;每个音/音程&lt;/strong&gt; 照顾一般&lt;/li&gt;
+&lt;li&gt;开放世界&lt;strong&gt;地图解锁&lt;/strong&gt;；CAGED 表示区域分布关系；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;⚠️ 音名 与 音级； 记忆与练习
 &lt;ul&gt;
-&lt;li&gt;地图 - 音名&lt;/li&gt;
+&lt;li&gt;关系与理解思路
+&lt;ul&gt;
+&lt;li&gt;坐标系/地图 思路：
+&lt;ul&gt;
+&lt;li&gt;音名 == World coordinate system == 绝对位置&lt;/li&gt;
+&lt;li&gt;音级 scale/mode == Local coordinate system == 相对关系&lt;/li&gt;
+&lt;li&gt;每一个调都是新的局部坐标系，坐标系转换，旋转矩阵？；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;模式匹配 思路
+&lt;ul&gt;
+&lt;li&gt;任意给定 音级 和 音的位置 note coordinate(TAB coordinate)，快速模式匹配 Pattern Recognization, which CAGED pattern, which scale position,&lt;/li&gt;
+&lt;li&gt;CAGED coordinate system;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;优点
+&lt;ul&gt;
+&lt;li&gt;记忆指板音名，快速反应音级，转调更快；&lt;/li&gt;
 &lt;li&gt;指板不记音名 只记相对关系，容易迷失方向位置；&lt;/li&gt;
-&lt;li&gt;结论：首调(相对关系) + 固定调(绝对位置) 都要记；&lt;/li&gt;
+&lt;li&gt;更容易找到和识别和弦扩展音；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;大局观 —— 管中窥豹&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;结论：&lt;strong&gt;首调(相对关系) + 固定调(绝对位置)&lt;/strong&gt; 都要记； mode 以主音音程记忆为主，每个mode都是全新的音阶&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;开放世界地图解锁；CAGED 表示行政区域分布关系； —&lt;/li&gt;
-&lt;li&gt;夯实基础后，大量曲目练习&lt;/li&gt;
-&lt;li&gt;音程 不同音起始，像强调该音为主音的调，像调式音阶的感觉；&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;看音名，快速反应音 是 调的第几级音（练习固定调， 音程部分练习）&lt;/p&gt;
+&lt;li&gt;练习
 &lt;ul&gt;
-&lt;li&gt;记忆指板音名，转调更快&lt;/li&gt;
-&lt;li&gt;记忆固定CAGED pattern；转调快速反应是哪个pattern&lt;/li&gt;
-&lt;li&gt;大局观 —— 管中窥豹&lt;/li&gt;
+&lt;li&gt;随机出调内音名，&lt;strong&gt;音名反应音级&lt;/strong&gt;、&lt;strong&gt;和弦CAGED五个位置按法&lt;/strong&gt;;
+&lt;ul&gt;
+&lt;li&gt;看音名，快速反应音 是 调的第几级音（练习固定调，音程部分练习）：&lt;strong&gt;音名反应音级&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;和弦位置练习&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;⚠️ 其他
+&lt;ul&gt;
+&lt;li&gt;音程 不同音起始，像强调该音为主音的调，像调式音阶的感觉；&lt;/li&gt;
+&lt;li&gt;夯实基础后，大量曲目练习&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+  &lt;details class=&#34;hx:last-of-type:mb-0 hx:rounded-lg hx:bg-neutral-50 hx:dark:bg-neutral-800 hx:p-2 hx:mt-4 hx:group&#34; &gt;
+  &lt;summary class=&#34;hx:flex hx:items-center hx:cursor-pointer hx:select-none hx:list-none hx:p-1 hx:rounded-sm hx:transition-colors hx:hover:bg-gray-100 hx:dark:hover:bg-neutral-800 hx:before:mr-1 hx:before:inline-block hx:before:transition-transform hx:before:content-[&#39;&#39;] hx:dark:before:invert hx:rtl:before:rotate-180 hx:group-open:before:rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx:text-lg&#34;&gt;听音训练1-1&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
+    &lt;ul&gt;
+&lt;li&gt;⚠️ 自然大调 自然小调 (主音音程) 两个极端 向其他scale/mode收敛渐进练习&lt;/li&gt;
 &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/details&gt;
@@ -3069,28 +3103,26 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
   &lt;/summary&gt;
   &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
     &lt;ul&gt;
-&lt;li&gt;音程练习2-2注意事项
+&lt;li&gt;⚠️ 思考几件事
 &lt;ul&gt;
-&lt;li&gt;思考几件事
+&lt;li&gt;&lt;strong&gt;首调音程&lt;/strong&gt;：
 &lt;ul&gt;
-&lt;li&gt;首调音程：
+&lt;li&gt;音阶不同音级起始的自然音程
 &lt;ul&gt;
-&lt;li&gt;大调音阶不同音级起始，的自然音程
-&lt;ul&gt;
-&lt;li&gt;任意音起始的音程按法，绝对发射&lt;/li&gt;
+&lt;li&gt;任意音起始的音程按法，&lt;strong&gt;绝对发射&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;帮助记忆不同级数和弦 扩展音是什么，&lt;/li&gt;
 &lt;li&gt;例： 2m9: 9=1; 5dom13: 13=3 ……&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;思考音名
+&lt;li&gt;&lt;strong&gt;音名音级对应&lt;/strong&gt;
 &lt;ul&gt;
 &lt;li&gt;不同调的音级音名是什么&lt;/li&gt;
 &lt;li&gt;例： G: G A B C D E #F&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;思考音所在的整体位置
+&lt;li&gt;思考音所在的&lt;strong&gt;整体位置&lt;/strong&gt;
 &lt;ul&gt;
 &lt;li&gt;CAGED位置&lt;/li&gt;
 &lt;li&gt;音阶指形位置&lt;/li&gt;
@@ -3099,21 +3131,19 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;练习顺序
+&lt;li&gt;⚠️ 练习顺序
 &lt;ul&gt;
 &lt;li&gt;练习1：
 &lt;ul&gt;
-&lt;li&gt;遍历CAGED位置优先；练习位置转换；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;遍历CAGED位置优先&lt;/strong&gt;；练习位置转换；&lt;/li&gt;
 &lt;li&gt;12-13&amp;hellip; × 5&lt;/li&gt;
 &lt;li&gt;1-base CAGED 五个位置后，练习2-base, 3-base ……&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;练习2：
 &lt;ul&gt;
-&lt;li&gt;遍历1-2-3……-base 优先，再练习其他位置; 练习同位置内音阶记忆；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;遍历1-2-3……-base优先&lt;/strong&gt;，再练习其他位置; 练习同位置内音阶记忆；&lt;/li&gt;
 &lt;li&gt;12-13&amp;hellip; 22-23 &amp;hellip; 同一个位置，再练 5 个 CAGED位置&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -3127,19 +3157,15 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
   &lt;/summary&gt;
   &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
     &lt;ul&gt;
-&lt;li&gt;CAGED 3-2 注意事项
-&lt;ul&gt;
-&lt;li&gt;Barre Chord 和线连接，练习低音通过
+&lt;li&gt;⚠️ Barre Chord &lt;strong&gt;和弦连接，练习低音经过&lt;/strong&gt;
 &lt;ul&gt;
 &lt;li&gt;1）根音音阶连接&lt;/li&gt;
 &lt;li&gt;2）根音+五度 + 音阶连接 到下一个和弦&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;地点检索，坐标索引
+&lt;li&gt;⚠️ &lt;strong&gt;地点检索，坐标索引&lt;/strong&gt;
 &lt;ul&gt;
 &lt;li&gt;给定音名/音级，迅速反应所在box(CAGED)和弦按法，音阶位置(音阶指形)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -3151,9 +3177,7 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
   &lt;/summary&gt;
   &lt;div class=&#34;hx:p-2 hx:overflow-hidden&#34;&gt;
     &lt;ul&gt;
-&lt;li&gt;《GG-1》五声音阶 注意事项
-&lt;ul&gt;
-&lt;li&gt;推弦
+&lt;li&gt;⚠️ 推弦
 &lt;ul&gt;
 &lt;li&gt;
 &lt;ol&gt;
@@ -3167,7 +3191,7 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;box之间连接; position-shifting
+&lt;li&gt;⚠️ box之间连接; position-shifting
 &lt;ul&gt;
 &lt;li&gt;
 &lt;ol&gt;
@@ -3179,62 +3203,107 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;小调 和 大调 五声音阶：
+&lt;li&gt;⚠️ 小调 和 大调 五声音阶：
 &lt;ul&gt;
 &lt;li&gt;按照主音音程 分开记忆，两套系统，类似 mode 只是音重合；&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;!-- ###  1.5. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;🗓️ 阶段打卡总表
+
+| 日期 | 听力 | 吉他基本功 | 乐理/指板 | Cover | 备注  |
+|------|------|-------------|-------------|--------|--------------|
+| 目标   | 1. [notes 听音级训练](https://www.youtube.com/watch?v=XLut-Ckq8hw&amp;list=WL&amp;index=2) &lt;br&gt;2. 唱音程（大调+小调，首调音程） &lt;br&gt; 3. 扒带-粗扒（定调 + 和弦 + 旋律）  | 1. 指板热身（爬格子120–200）+《GG》独立性+《地狱吉他1》10/50 &lt;br&gt;2. 《乔伊速度》左手独立性 &lt;br&gt;3. notebook 手指热身  | 1. 指板记忆（CAGED + 和弦 + 音阶 + 琶音 + 五声音阶） &lt;br&gt;2. notebook CAGED音阶和弦部分  | 1. licks（Neo-soul*2）+ GTP打谱 + 视频制作  | 听力常规，重点机能，重点五声音阶+CAGED |
+| 2025-12-08 | 1. sonofield 大调level6 &lt;br&gt; 2.  | 指板热身-120 | ☐ | ☐ |  |
+| 2025-11-06 | ✅ ⬜ ☑️ | ☐ | ☐ | ☐ |  |
+| 2025-11-07 | ☐ | ☐ | ☐ | ☐ |  |
+ --&gt;
+&lt;h3&gt;1.5. &lt;a name=&#39;202601&#39;&gt;&lt;/a&gt;🎯 202601练习记录&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;15--202601练习记录&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#15--202601%e7%bb%83%e4%b9%a0%e8%ae%b0%e5%bd%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;1.5.1. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt; 练习重点：&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;151--练习重点&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#151--%e7%bb%83%e4%b9%a0%e9%87%8d%e7%82%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;主要：&lt;strong&gt;记忆指板，解锁地图&lt;/strong&gt;；&lt;strong&gt;指板拓展性&lt;/strong&gt;；(&lt;strong&gt;音程 + CAGED&lt;/strong&gt; + 五声音阶 + &lt;strong&gt;三和弦traids&lt;/strong&gt;) * 12个调，&lt;/li&gt;
+&lt;li&gt;其次：记忆音名，识五线谱；音乐鉴赏；扩展视野；&lt;/li&gt;
+&lt;li&gt;CAGED位置，音阶练习为辅；音名音级，有意识地想；&lt;/li&gt;
 &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-&lt;h3&gt;1.5. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;🗓️ 阶段打卡总表&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;15--阶段打卡总表&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#15--%e9%98%b6%e6%ae%b5%e6%89%93%e5%8d%a1%e6%80%bb%e8%a1%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;日期&lt;/th&gt;
-          &lt;th&gt;听力&lt;/th&gt;
-          &lt;th&gt;吉他基本功&lt;/th&gt;
-          &lt;th&gt;乐理/指板&lt;/th&gt;
-          &lt;th&gt;Cover&lt;/th&gt;
-          &lt;th&gt;备注&lt;/th&gt;
+          &lt;th&gt;模块&lt;/th&gt;
+          &lt;th&gt;内容&lt;/th&gt;
+          &lt;th&gt;时间/频率&lt;/th&gt;
+          &lt;th&gt;完成进度&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;目标&lt;/td&gt;
-          &lt;td&gt;1. &lt;a href=&#34;https://www.youtube.com/watch?v=XLut-Ckq8hw&amp;amp;list=WL&amp;amp;index=2&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;notes 听音级训练&lt;/a&gt; &lt;br&gt;2. 唱音程（大调+小调，首调音程） &lt;br&gt; 3. 扒带-粗扒（定调 + 和弦 + 旋律）&lt;/td&gt;
-          &lt;td&gt;1. 指板热身（爬格子120–200）+《GG》独立性+《地狱吉他1》10/50 &lt;br&gt;2. 《乔伊速度》左手独立性 &lt;br&gt;3. notebook 手指热身&lt;/td&gt;
-          &lt;td&gt;1. 指板记忆（CAGED + 和弦 + 音阶 + 琶音 + 五声音阶） &lt;br&gt;2. notebook CAGED音阶和弦部分&lt;/td&gt;
-          &lt;td&gt;1. licks（Neo-soul*2）+ GTP打谱 + 视频制作&lt;/td&gt;
-          &lt;td&gt;听力常规，重点机能，重点五声音阶+CAGED&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;1. 听力&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;1. &lt;a href=&#34;https://www.youtube.com/watch?v=XLut-Ckq8hw&amp;amp;list=WL&amp;amp;index=2&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;notes 听音级训练 SONOFIELD&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;⏰ 每天 20 min （班车）&lt;/td&gt;
+          &lt;td&gt;✔️ 自然大调 28/30； 自然小调 25/30；&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;2025-12-08&lt;/td&gt;
-          &lt;td&gt;1. sonofield 大调level6 &lt;br&gt; 2.&lt;/td&gt;
-          &lt;td&gt;指板热身-120&lt;/td&gt;
-          &lt;td&gt;☐&lt;/td&gt;
-          &lt;td&gt;☐&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;2. 吉他基本功&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;1. 指板热身 《GG》 + 《地狱吉他1》+《乔伊速度》左手&lt;/td&gt;
+          &lt;td&gt;⏰ 每天 30 min&lt;/td&gt;
+          &lt;td&gt;✔️ 艰难依旧坚持，最后练，不费脑子&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;2. 唱+弹 顺阶音程(林朔) + 横向音程(GG) + 音程模进(GG)&lt;/td&gt;
+          &lt;td&gt;⏰ 每天 30 min 每天一个调；&lt;br&gt; 音名+五线谱+吉他指形/box 同时练习　&lt;/td&gt;
+          &lt;td&gt;❌ 一个调时间太久，来不及练其他调，争取30min内； &lt;br&gt;❌ 先掌握一个调的相对关系，再练不同调音名-音级对应； &lt;br&gt;⏳ 下个月继续&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;3. 乐理/指板&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;指板记忆训练 - 核心：《GG-1》CAGED(三和弦traids) + 五声音阶&lt;/td&gt;
+          &lt;td&gt;一天一个调&lt;/td&gt;
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;2025-11-06&lt;/td&gt;
-          &lt;td&gt;✅ ⬜ ☑️&lt;/td&gt;
-          &lt;td&gt;☐&lt;/td&gt;
-          &lt;td&gt;☐&lt;/td&gt;
-          &lt;td&gt;☐&lt;/td&gt;
           &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;1. 《Pow Music》CAGED 单个和弦 traids 3根弦 1）横向移动 添加调内经过音 + 转位 2）纵向垂直移动&lt;/td&gt;
+          &lt;td&gt;⏰ 每天 30 min&lt;/td&gt;
+          &lt;td&gt;✔️ 1/2 单个大三和弦 各种组合琶音：[紧凑/扩张 135/153] * [CAGED 五个位置 横向/纵向] * [跨弦/相邻弦] &lt;br&gt;❌ 一个大三和弦练习2h太久，综合终极琶音，梳理后再有条理地练 &lt;br&gt;⏳ 下个月练小三和弦 + 大三和弦 CAGED 巩固&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;2025-11-07&lt;/td&gt;
-          &lt;td&gt;☐&lt;/td&gt;
-          &lt;td&gt;☐&lt;/td&gt;
-          &lt;td&gt;☐&lt;/td&gt;
-          &lt;td&gt;☐&lt;/td&gt;
           &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;2. &lt;strong&gt;《GG-1》CAGED 常见走向 Barre Chords 就近&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;⏰ 30min&lt;/td&gt;
+          &lt;td&gt;✔️ 5种走向 &lt;br&gt; ✔️ 低音五度+调内经过音; ❌ 根音下行的转位欠缺 ⏳ 继续练转位就近连接&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;3. 《Pow Music》CAGED 常见走向 traids就近&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;❌ 没来得及练 ⏳ 继续练 traids 就近&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;4. 《GG-1》五声音阶 推弦 box*5 顺序&lt;/td&gt;
+          &lt;td&gt;⏰ 3min&lt;/td&gt;
+          &lt;td&gt;✔️&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;6. 《GG-1》五声音阶 box*5 顺序 上下行 爬五声格子 一弦二音&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;❌&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;4. Cover&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;1. 扒带-粗扒-cover or lick-视频（定调 + 和弦 + 旋律）+ 即兴   &lt;br&gt;《17》- 椎名林檎&lt;/td&gt;
+          &lt;td&gt;⏰ 每周 1 首&lt;/td&gt;
+          &lt;td&gt;✔️ 17&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;4. 音乐鉴赏，文化学习&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;1. 听歌 fusion为主  &lt;br&gt; Guthrie Govan &amp;amp; the Aristocrats &lt;br&gt; Greg Howe &lt;br&gt; Paul Gilbert &lt;br&gt; Frank Gambale&lt;/td&gt;
+          &lt;td&gt;音乐文化！音乐鉴赏！多听！多看！&lt;/td&gt;
+          &lt;td&gt;✔️ Guthrie Govan&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -3618,24 +3687,6 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/details&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>落日 - 东京事变</title>
-      <link>https://phoenix0qi.github.io/music/%E6%89%92%E5%B8%A6%E8%AE%B0%E5%BD%95/songs/%E8%90%BD%E6%97%A5---%E4%B8%9C%E4%BA%AC%E4%BA%8B%E5%8F%98/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://phoenix0qi.github.io/music/%E6%89%92%E5%B8%A6%E8%AE%B0%E5%BD%95/songs/%E8%90%BD%E6%97%A5---%E4%B8%9C%E4%BA%AC%E4%BA%8B%E5%8F%98/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Tags&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;tags&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#tags&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;椎名林檎&lt;/li&gt;
-&lt;li&gt;流行&lt;/li&gt;
-&lt;/ul&gt;
 
       </description>
     </item>
@@ -6475,7 +6526,7 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
     </item>
     
     <item>
-      <title>音阶-音程</title>
+      <title>音程-音阶</title>
       <link>https://phoenix0qi.github.io/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E5%9F%BA%E6%9C%AC%E5%8A%9F_%E6%8C%87%E6%9D%BF_%E9%9F%B3%E9%98%B6_%E5%92%8C%E5%BC%A6/2.4.%E9%9F%B3%E9%98%B6-%E9%9F%B3-%E9%9F%B3%E7%A8%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -6484,16 +6535,20 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
         
         
         &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#1-%e9%9f%b3%e9%98%b6-%e9%9f%b3-%e9%9f%b3%e7%a8%8b-%e5%92%8c%e5%bc%a6&#34;&gt;1. 音阶-音-音程-和弦&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#%e5%85%b6%e4%bb%96&#34;&gt;其他&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#11-%e5%ad%a6%e4%b9%a0%e9%80%bb%e8%be%91&#34;&gt;1.1. 学习逻辑&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#12--todolist&#34;&gt;1.2. 🎯 ToDoList&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#17-%e5%8f%82%e8%80%83%e8%b5%84%e6%96%99&#34;&gt;1.7. 参考资料&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#1-%e9%9f%b3%e7%a8%8b-%e9%9f%b3%e9%98%b6&#34;&gt;1. 音程-音阶&lt;/a&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#13-%e9%9f%b3%e7%a8%8b-intervals&#34;&gt;1.3. 音程 Intervals&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#131-%e8%87%aa%e7%84%b6%e5%a4%a7%e8%b0%83%e5%86%85%e9%83%a8%e9%9f%b3%e7%a8%8b&#34;&gt;1.3.1. 自然大调内部音程&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#132-%e9%9f%b3%e7%a8%8b%e6%84%9f%e8%a7%89&#34;&gt;1.3.2. 音程感觉&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#133-%e9%9f%b3%e7%a8%8b%e6%8c%87%e6%9d%bf%e6%98%a0%e5%b0%84%e7%bb%9d%e5%af%b9%e5%8f%91%e5%b0%84&#34;&gt;1.3.3. 音程指板映射，绝对发射&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#134-%e6%8c%87%e6%9d%bf%e9%9f%b3%e5%90%8d-%e4%ba%94%e5%ba%a6%e5%9c%88-%e5%9b%ba%e5%ae%9a%e8%b0%83&#34;&gt;1.3.4. 指板音名-五度圈-固定调&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#135-%e9%9f%b3%e7%a8%8b%e7%bb%83%e4%b9%a0-%e6%a8%a1%e8%bf%9b&#34;&gt;1.3.5. 音程练习-模进&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -6505,7 +6560,7 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#%e4%b8%80%e5%bc%a6%e4%b8%a4%e9%9f%b3&#34;&gt;一弦两音&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#%e4%b8%80%e5%bc%a6%e4%b8%89%e9%9f%b3&#34;&gt;一弦三音&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#caged&#34;&gt;CAGED&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#caged---%e9%9f%b3%e9%98%b6%e5%92%8c%e5%bc%a6%e5%af%b9%e5%ba%94&#34;&gt;CAGED - 音阶和弦对应&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#%e9%9f%b3%e9%98%b6%e6%a8%a1%e8%bf%9b&#34;&gt;音阶模进&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#%e7%bb%83%e4%b9%a0%e6%96%b9%e6%b3%95&#34;&gt;练习方法&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -6520,12 +6575,10 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#15-%e5%88%9b%e9%80%a0%e5%8a%9b&#34;&gt;1.5. 创造力&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#16-%e5%85%b6%e4%bb%96-%e4%b8%8d%e7%9b%b8%e5%85%b3&#34;&gt;1.6. 其他 不相关&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#17-%e5%8f%82%e8%80%83%e8%b5%84%e6%96%99&#34;&gt;1.7. 参考资料&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;1. &lt;a name=&#39;---&#39;&gt;&lt;/a&gt;音阶-音-音程-和弦&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-音阶-音-音程-和弦&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-%e9%9f%b3%e9%98%b6-%e9%9f%b3-%e9%9f%b3%e7%a8%8b-%e5%92%8c%e5%bc%a6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-amber-200 hx:bg-amber-100 hx:text-amber-900 hx:dark:border-amber-200/30 hx:dark:bg-amber-900/30 hx:dark:text-amber-200&#34;&gt;
+&lt;div class=&#34;hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-amber-200 hx:bg-amber-100 hx:text-amber-900 hx:dark:border-amber-200/30 hx:dark:bg-amber-900/30 hx:dark:text-amber-200&#34;&gt;
   &lt;div class=&#34;hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2&#34;&gt;&lt;svg height=1.2em class=&#34;hx:inline-block hx:align-middle&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;
 
   &lt;div class=&#34;hx:w-full hx:min-w-0 hx:leading-7&#34;&gt;
@@ -6533,7 +6586,33 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h3&gt;1.1. &lt;a name=&#39;&#39;&gt;&lt;/a&gt;学习逻辑&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;11-学习逻辑&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;1.3.4. &lt;a name=&#39;--&#39;&gt;&lt;/a&gt;指板音名-五度圈-固定调&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;134-指板音名-五度圈-固定调&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#134-%e6%8c%87%e6%9d%bf%e9%9f%b3%e5%90%8d-%e4%ba%94%e5%ba%a6%e5%9c%88-%e5%9b%ba%e5%ae%9a%e8%b0%83&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;指板音名图&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;掌握固定调能力：给定音名，迅速反应调内几级音；认五线谱；&lt;/li&gt;
+&lt;li&gt;掌握音名在指板上对应&lt;/li&gt;
+&lt;li&gt;掌握首调听感&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20250914102619082.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20250914103347009.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;五度圈&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;练习12个调；迅速反应音级音名；&lt;/li&gt;
+&lt;li&gt;五度圈记忆音名，固定调，认五线谱
+&lt;ul&gt;
+&lt;li&gt;切换12个调，练习五线谱+音名&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20251209140434453.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;其他&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;其他&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%85%b6%e4%bb%96&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;1.1. &lt;a name=&#39;&#39;&gt;&lt;/a&gt;学习逻辑&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;11-学习逻辑&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#11-%e5%ad%a6%e4%b9%a0%e9%80%bb%e8%be%91&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;是什么&lt;/li&gt;
 &lt;li&gt;为什么要用&lt;/li&gt;
@@ -6567,7 +6646,14 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;1.3. &lt;a name=&#39;Intervals&#39;&gt;&lt;/a&gt;音程 Intervals&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;13-音程-intervals&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;1.7. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;参考资料&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;17-参考资料&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#17-%e5%8f%82%e8%80%83%e8%b5%84%e6%96%99&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/476222589&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BOHAN-如何用「CAGED系统」解锁所有【和弦、琶音、音阶】——附详细图示+练习方案&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;《GG-1》&lt;/li&gt;
+&lt;li&gt;《GG-2》&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;1. &lt;a name=&#39;---&#39;&gt;&lt;/a&gt;音程-音阶&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-音程-音阶&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-%e9%9f%b3%e7%a8%8b-%e9%9f%b3%e9%98%b6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;1.3. &lt;a name=&#39;Intervals&#39;&gt;&lt;/a&gt;音程 Intervals&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;13-音程-intervals&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#13-%e9%9f%b3%e7%a8%8b-intervals&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;1.3.1. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;自然大调内部音程&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;131-自然大调内部音程&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#131-%e8%87%aa%e7%84%b6%e5%a4%a7%e8%b0%83%e5%86%85%e9%83%a8%e9%9f%b3%e7%a8%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;table&gt;
   &lt;thead&gt;
@@ -6870,47 +6956,41 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;《乔伊》&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251109134544032.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;1.3.4. &lt;a name=&#39;--&#39;&gt;&lt;/a&gt;指板音名-五度圈-固定调&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;134-指板音名-五度圈-固定调&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#134-%e6%8c%87%e6%9d%bf%e9%9f%b3%e5%90%8d-%e4%ba%94%e5%ba%a6%e5%9c%88-%e5%9b%ba%e5%ae%9a%e8%b0%83&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;指板音名图&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;掌握固定调能力：给定音名，迅速反应调内几级音；认五线谱；&lt;/li&gt;
-&lt;li&gt;掌握音名在指板上对应&lt;/li&gt;
-&lt;li&gt;掌握首调听感&lt;/li&gt;
-&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20250914102619082.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20250914103347009.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;五度圈&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;练习12个调；迅速反应音级音名；&lt;/li&gt;
-&lt;li&gt;五度圈记忆音名，固定调，认五线谱
-&lt;ul&gt;
-&lt;li&gt;切换12个调，练习五线谱+音名&lt;/li&gt;
-&lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img_250605/20251209140434453.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h4&gt;1.3.5. &lt;a name=&#39;-&#39;&gt;&lt;/a&gt;音程练习-模进&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;135-音程练习-模进&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#135-%e9%9f%b3%e7%a8%8b%e7%bb%83%e4%b9%a0-%e6%a8%a1%e8%bf%9b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;音程练习 （参考2512月练习）
+&lt;li&gt;
+&lt;p&gt;音程练习 （参考2512月练习）&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;注意事项
+&lt;li&gt;
+&lt;p&gt;⚠️ 练习内容&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;唱+弹 音程模进 + 顺阶音程 (首调音程 音名思考)　&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;音名思考，用五度圈 + 认五线谱 + 12个调&lt;/strong&gt;， 切换12个调，练习五线谱+音名&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1）就近-根音不动上下行 - 林朔&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;12-13-14-15&amp;hellip; 17-16-15-14&amp;hellip;； 找根音位置 开始上下行八度&lt;/li&gt;
+&lt;li&gt;练习1：
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;遍历CAGED位置优先&lt;/strong&gt;；练习位置转换；&lt;/li&gt;
+&lt;li&gt;12-13&amp;hellip; × 5&lt;/li&gt;
+&lt;li&gt;1-base CAGED 五个位置后，练习2-base, 3-base ……&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;1）就近-跟音上下行 - 林朔
+&lt;li&gt;练习2：
 &lt;ul&gt;
-&lt;li&gt;12-13-14-15&amp;hellip; 17-16-15-14&amp;hellip;； 找跟音位置 开始上下行八度&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;遍历1-2-3……-base优先&lt;/strong&gt;，再练习其他位置; 练习同位置内音阶记忆；&lt;/li&gt;
+&lt;li&gt;12-13&amp;hellip; 22-23 &amp;hellip; 同一个位置，再练 5 个 CAGED位置&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;2）横向音程+模进 - GG
+&lt;li&gt;目的：
+&lt;ul&gt;
+&lt;li&gt;直接发射，快速找到 &lt;strong&gt;Big Scary Chords&lt;/strong&gt; 延伸音位置&lt;/li&gt;
+&lt;li&gt;位于指板的整体位置 (CAGED)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2）横向音程+模进 - GG&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;打破传统音阶指形，试着在一根弦上弹音阶，让耳朵起作用而不是记忆指形。
 &lt;ul&gt;
@@ -6929,7 +7009,8 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;3）音程模进 C大调 × 12个调
+&lt;li&gt;
+&lt;p&gt;3）音程模进 C大调 × 12个调&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;C自然大调音程
 &lt;ul&gt;
@@ -6958,6 +7039,42 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;li&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20251108145143341.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;⚠️ 音程练习同时思考几件事&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;首调音程&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;音阶不同音级起始的自然音程
+&lt;ul&gt;
+&lt;li&gt;任意音起始的音程按法，&lt;strong&gt;绝对发射&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;帮助记忆不同级数和弦 扩展音是什么，&lt;/li&gt;
+&lt;li&gt;例： 2m9: 9=1; 5dom13: 13=3 ……&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;音名音级对应&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;不同调的音级音名是什么
+&lt;ul&gt;
+&lt;li&gt;例： G: G A B C D E #F&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;唱+弹 音程模进 + 顺阶音程 (首调音程 音名思考)　&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;音名思考，用五度圈 + 认五线谱 + 12个调&lt;/strong&gt;， 切换12个调，练习五线谱+音名&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;思考音所在的&lt;strong&gt;整体位置&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;CAGED位置&lt;/li&gt;
+&lt;li&gt;音阶指形位置&lt;/li&gt;
+&lt;li&gt;例：C大调，D=2 在5弦上的CAGED， 1M - A shape； 音阶指形 La 指形&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -7046,10 +7163,88 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h5&gt;&lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;一弦三音&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;一弦三音&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e4%b8%80%e5%bc%a6%e4%b8%89%e9%9f%b3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;h5&gt;&lt;a name=&#39;CAGED&#39;&gt;&lt;/a&gt;CAGED&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;caged&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#caged&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;ul&gt;
+    &lt;a href=&#34;#%e4%b8%80%e5%bc%a6%e4%b8%89%e9%9f%b3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;h5&gt;&lt;a name=&#39;CAGED&#39;&gt;&lt;/a&gt;CAGED - 音阶和弦对应&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;caged---音阶和弦对应&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#caged---%e9%9f%b3%e9%98%b6%e5%92%8c%e5%bc%a6%e5%af%b9%e5%ba%94&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;ul&gt;
 &lt;li&gt;核心思路：CAGED 5个把位框架下，填充音阶音。&lt;/li&gt;
 &lt;/ul&gt;
+
+
+  
+  
+  
+  
+  
+  
+  
+
+&lt;div class=&#34;hextra-scrollbar hx:overflow-x-auto hx:overflow-y-hidden hx:overscroll-x-contain&#34;&gt;
+  &lt;div
+    class=&#34;hx:mt-4 hx:flex hx:w-max hx:min-w-full hx:border-b hx:border-gray-200 hx:pb-px hx:dark:border-neutral-800&#34;
+     data-tab-group=&#34;1M, 2m, 3M, 4m, 5M, 6m, 7dim&#34;
+  &gt;&lt;button
+        class=&#34;hextra-tabs-toggle hx:cursor-pointer hx:data-[state=selected]:border-primary-500 hx:data-[state=selected]:text-primary-600 hx:data-[state=selected]:dark:border-primary-500 hx:data-[state=selected]:dark:text-primary-600 hx:mr-2 hx:rounded-t hx:p-2 hx:font-medium hx:leading-5 hx:transition-colors hx:-mb-0.5 hx:select-none hx:border-b-2 hx:border-transparent hx:text-gray-600 hx:hover:border-gray-200 hx:hover:text-black hx:dark:text-gray-200 hx:dark:hover:border-neutral-800 hx:dark:hover:text-white&#34;
+        role=&#34;tab&#34;
+        type=&#34;button&#34;
+        aria-controls=&#34;tabs-panel-tabs-02-0&#34;aria-selected=&#34;true&#34;
+        tabindex=&#34;0&#34;
+        data-state=&#34;selected&#34;
+      &gt;1M&lt;/button&gt;&lt;button
+        class=&#34;hextra-tabs-toggle hx:cursor-pointer hx:data-[state=selected]:border-primary-500 hx:data-[state=selected]:text-primary-600 hx:data-[state=selected]:dark:border-primary-500 hx:data-[state=selected]:dark:text-primary-600 hx:mr-2 hx:rounded-t hx:p-2 hx:font-medium hx:leading-5 hx:transition-colors hx:-mb-0.5 hx:select-none hx:border-b-2 hx:border-transparent hx:text-gray-600 hx:hover:border-gray-200 hx:hover:text-black hx:dark:text-gray-200 hx:dark:hover:border-neutral-800 hx:dark:hover:text-white&#34;
+        role=&#34;tab&#34;
+        type=&#34;button&#34;
+        aria-controls=&#34;tabs-panel-tabs-02-1&#34;
+      &gt; 2m&lt;/button&gt;&lt;button
+        class=&#34;hextra-tabs-toggle hx:cursor-pointer hx:data-[state=selected]:border-primary-500 hx:data-[state=selected]:text-primary-600 hx:data-[state=selected]:dark:border-primary-500 hx:data-[state=selected]:dark:text-primary-600 hx:mr-2 hx:rounded-t hx:p-2 hx:font-medium hx:leading-5 hx:transition-colors hx:-mb-0.5 hx:select-none hx:border-b-2 hx:border-transparent hx:text-gray-600 hx:hover:border-gray-200 hx:hover:text-black hx:dark:text-gray-200 hx:dark:hover:border-neutral-800 hx:dark:hover:text-white&#34;
+        role=&#34;tab&#34;
+        type=&#34;button&#34;
+        aria-controls=&#34;tabs-panel-tabs-02-2&#34;
+      &gt; 3M&lt;/button&gt;&lt;button
+        class=&#34;hextra-tabs-toggle hx:cursor-pointer hx:data-[state=selected]:border-primary-500 hx:data-[state=selected]:text-primary-600 hx:data-[state=selected]:dark:border-primary-500 hx:data-[state=selected]:dark:text-primary-600 hx:mr-2 hx:rounded-t hx:p-2 hx:font-medium hx:leading-5 hx:transition-colors hx:-mb-0.5 hx:select-none hx:border-b-2 hx:border-transparent hx:text-gray-600 hx:hover:border-gray-200 hx:hover:text-black hx:dark:text-gray-200 hx:dark:hover:border-neutral-800 hx:dark:hover:text-white&#34;
+        role=&#34;tab&#34;
+        type=&#34;button&#34;
+        aria-controls=&#34;tabs-panel-tabs-02-3&#34;
+      &gt; 4m&lt;/button&gt;&lt;button
+        class=&#34;hextra-tabs-toggle hx:cursor-pointer hx:data-[state=selected]:border-primary-500 hx:data-[state=selected]:text-primary-600 hx:data-[state=selected]:dark:border-primary-500 hx:data-[state=selected]:dark:text-primary-600 hx:mr-2 hx:rounded-t hx:p-2 hx:font-medium hx:leading-5 hx:transition-colors hx:-mb-0.5 hx:select-none hx:border-b-2 hx:border-transparent hx:text-gray-600 hx:hover:border-gray-200 hx:hover:text-black hx:dark:text-gray-200 hx:dark:hover:border-neutral-800 hx:dark:hover:text-white&#34;
+        role=&#34;tab&#34;
+        type=&#34;button&#34;
+        aria-controls=&#34;tabs-panel-tabs-02-4&#34;
+      &gt; 5M&lt;/button&gt;&lt;button
+        class=&#34;hextra-tabs-toggle hx:cursor-pointer hx:data-[state=selected]:border-primary-500 hx:data-[state=selected]:text-primary-600 hx:data-[state=selected]:dark:border-primary-500 hx:data-[state=selected]:dark:text-primary-600 hx:mr-2 hx:rounded-t hx:p-2 hx:font-medium hx:leading-5 hx:transition-colors hx:-mb-0.5 hx:select-none hx:border-b-2 hx:border-transparent hx:text-gray-600 hx:hover:border-gray-200 hx:hover:text-black hx:dark:text-gray-200 hx:dark:hover:border-neutral-800 hx:dark:hover:text-white&#34;
+        role=&#34;tab&#34;
+        type=&#34;button&#34;
+        aria-controls=&#34;tabs-panel-tabs-02-5&#34;
+      &gt; 6m&lt;/button&gt;&lt;button
+        class=&#34;hextra-tabs-toggle hx:cursor-pointer hx:data-[state=selected]:border-primary-500 hx:data-[state=selected]:text-primary-600 hx:data-[state=selected]:dark:border-primary-500 hx:data-[state=selected]:dark:text-primary-600 hx:mr-2 hx:rounded-t hx:p-2 hx:font-medium hx:leading-5 hx:transition-colors hx:-mb-0.5 hx:select-none hx:border-b-2 hx:border-transparent hx:text-gray-600 hx:hover:border-gray-200 hx:hover:text-black hx:dark:text-gray-200 hx:dark:hover:border-neutral-800 hx:dark:hover:text-white&#34;
+        role=&#34;tab&#34;
+        type=&#34;button&#34;
+        aria-controls=&#34;tabs-panel-tabs-02-6&#34;
+      &gt; 7dim&lt;/button&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;div
+        class=&#34;hextra-tabs-panel hx:rounded-sm hx:pt-6 hx:hidden hx:data-[state=selected]:block&#34;
+        id=&#34;tabs-panel-tabs-02-0&#34;
+        role=&#34;tabpanel&#34;tabindex=&#34;0&#34;
+        data-state=&#34;selected&#34;
+        &gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20260102210800467.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/div&gt;&lt;div
+        class=&#34;hextra-tabs-panel hx:rounded-sm hx:pt-6 hx:hidden hx:data-[state=selected]:block&#34;
+        id=&#34;tabs-panel-tabs-02-1&#34;
+        role=&#34;tabpanel&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20260102210800467.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/div&gt;&lt;div
+        class=&#34;hextra-tabs-panel hx:rounded-sm hx:pt-6 hx:hidden hx:data-[state=selected]:block&#34;
+        id=&#34;tabs-panel-tabs-02-2&#34;
+        role=&#34;tabpanel&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20260102210831300.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/div&gt;&lt;div
+        class=&#34;hextra-tabs-panel hx:rounded-sm hx:pt-6 hx:hidden hx:data-[state=selected]:block&#34;
+        id=&#34;tabs-panel-tabs-02-3&#34;
+        role=&#34;tabpanel&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20260102210859514.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/div&gt;&lt;div
+        class=&#34;hextra-tabs-panel hx:rounded-sm hx:pt-6 hx:hidden hx:data-[state=selected]:block&#34;
+        id=&#34;tabs-panel-tabs-02-4&#34;
+        role=&#34;tabpanel&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20260102210947520.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/div&gt;&lt;div
+        class=&#34;hextra-tabs-panel hx:rounded-sm hx:pt-6 hx:hidden hx:data-[state=selected]:block&#34;
+        id=&#34;tabs-panel-tabs-02-5&#34;
+        role=&#34;tabpanel&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20260102211023596.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/div&gt;&lt;div
+        class=&#34;hextra-tabs-panel hx:rounded-sm hx:pt-6 hx:hidden hx:data-[state=selected]:block&#34;
+        id=&#34;tabs-panel-tabs-02-6&#34;
+        role=&#34;tabpanel&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Phoenix0qi/tuchaung/main/img/20260102211040184.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/div&gt;&lt;/div&gt;
+
 &lt;h5&gt;&lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;音阶模进&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;音阶模进&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e9%9f%b3%e9%98%b6%e6%a8%a1%e8%bf%9b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;ul&gt;
 &lt;li&gt;乔伊 - 建立速度&lt;/li&gt;
@@ -7153,10 +7348,6 @@ Locrian &amp;mdash;&amp;mdash;-Do Ra Me Fa Se Le Te Do&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;1.7. &lt;a name=&#39;-1&#39;&gt;&lt;/a&gt;参考资料&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;17-参考资料&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#17-%e5%8f%82%e8%80%83%e8%b5%84%e6%96%99&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/476222589&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BOHAN-如何用「CAGED系统」解锁所有【和弦、琶音、音阶】——附详细图示+练习方案&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
 
       </description>
     </item>
@@ -8078,6 +8269,21 @@ b V 电影配乐 just radiohead开头&lt;/p&gt;
     </item>
     
     <item>
+      <title>17 - 椎名林檎</title>
+      <link>https://phoenix0qi.github.io/music/%E6%89%92%E5%B8%A6%E8%AE%B0%E5%BD%95/songs/17---%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoenix0qi.github.io/music/%E6%89%92%E5%B8%A6%E8%AE%B0%E5%BD%95/songs/17---%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;整体走向 Chord Progression&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;整体走向-chord-progression&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%95%b4%e4%bd%93%e8%b5%b0%e5%90%91-chord-progression&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;知识点&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;知识点&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%9f%a5%e8%af%86%e7%82%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+      </description>
+    </item>
+    
+    <item>
       <title>Hextra 标记学习</title>
       <link>https://phoenix0qi.github.io/docs/hextra-%E6%A0%87%E8%AE%B0%E5%AD%A6%E4%B9%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -8604,6 +8810,51 @@ Releases&lt;/div&gt;
         
         &lt;p&gt;This page is under a folder.&lt;/p&gt;
 
+      </description>
+    </item>
+    
+    <item>
+      <title>September - Earth, Wind and Fire</title>
+      <link>https://phoenix0qi.github.io/music/%E6%89%92%E5%B8%A6%E8%AE%B0%E5%BD%95/songs/september---earth-wind-and-fire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoenix0qi.github.io/music/%E6%89%92%E5%B8%A6%E8%AE%B0%E5%BD%95/songs/september---earth-wind-and-fire/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;整体走向 Chord Progression&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;整体走向-chord-progression&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%95%b4%e4%bd%93%e8%b5%b0%e5%90%91-chord-progression&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;知识点&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;知识点&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%9f%a5%e8%af%86%e7%82%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>孤独患者 - 陈奕迅</title>
+      <link>https://phoenix0qi.github.io/music/%E6%89%92%E5%B8%A6%E8%AE%B0%E5%BD%95/songs/%E5%AD%A4%E7%8B%AC%E6%82%A3%E8%80%85---%E9%99%88%E5%A5%95%E8%BF%85/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoenix0qi.github.io/music/%E6%89%92%E5%B8%A6%E8%AE%B0%E5%BD%95/songs/%E5%AD%A4%E7%8B%AC%E6%82%A3%E8%80%85---%E9%99%88%E5%A5%95%E8%BF%85/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;整体走向 Chord Progression&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;整体走向-chord-progression&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%95%b4%e4%bd%93%e8%b5%b0%e5%90%91-chord-progression&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;知识点&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;知识点&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%9f%a5%e8%af%86%e7%82%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>落日 - 东京事变</title>
+      <link>https://phoenix0qi.github.io/music/%E6%89%92%E5%B8%A6%E8%AE%B0%E5%BD%95/songs/%E8%90%BD%E6%97%A5---%E4%B8%9C%E4%BA%AC%E4%BA%8B%E5%8F%98/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoenix0qi.github.io/music/%E6%89%92%E5%B8%A6%E8%AE%B0%E5%BD%95/songs/%E8%90%BD%E6%97%A5---%E4%B8%9C%E4%BA%AC%E4%BA%8B%E5%8F%98/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;整体走向 Chord Progression&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;整体走向-chord-progression&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%95%b4%e4%bd%93%e8%b5%b0%e5%90%91-chord-progression&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h3&gt;知识点&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;知识点&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%9f%a5%e8%af%86%e7%82%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
       </description>
     </item>
     
