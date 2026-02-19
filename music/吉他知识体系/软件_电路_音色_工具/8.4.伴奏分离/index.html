@@ -211,7 +211,7 @@ Audio Jam AI 分轨
 
 <meta
   property="article:modified_time"
-  content="2026-02-18T01:59:27+00:00">
+  content="2026-02-19T04:52:29+00:00">
 
 
 
@@ -219,7 +219,7 @@ Audio Jam AI 分轨
   <meta itemprop="description" content="1. 伴奏分离方案 1.1. UVR5 1.1.1. 分离方法 1.1.2. 模型细节用法 Audio Jam AI 分轨 1.2. 其他 AI 工具 1. 伴奏分离方案 1.1. UVR5 Ultimate Vocal Remover GUI v5.6
 模型介绍
 1.1.1. 分离方法 CHOOSE PROCESS METHOD：选择处理音频的算法 VR Architecture：使用幅度频谱图进行音源分离。 MDX-Net：采用混合频谱网络进行音源分离。 Demucs：利用混合频谱网络进行音源分离。 Ensemble Mode：将多个模型和网络的结果组合以获得最佳结果。 Audio Tools：提供额外的实用工具，以增加便利性。 GPU Conversion：使用显卡加速处理（强烈建议勾选，CPU计算的速度非常慢） Sample Mode (??s) ：只处理??秒的音频，可以预览结果 1.1.2. 模型细节用法 如果处理算法选择VR Architecture WINDOW SIZE：选择窗口大小以平衡质量和速度 1024 - 快速但质量较低。 512 - 中等速度和质量。 320 - 需要更长时间，但可能提供更好的质量。（推荐，实际上慢不了多少） AGGRESSION SETTING：调整主音轨提取的强度 可调范围是[-100, 100]，较大的值意味着更深的提取。 通常，对于人声和器乐，将其设置为5。 超过5的值可能会使非人声模型的声音变得混浊。 下面的选项会随着不同的模型发生变化 Vocals Only：只提取人声 Instrumental Only：只提取伴奏 No Echo Only：只输出去掉混响的音频 Echo Only：只输出混响部分的音频 No Noise Only：只输出降噪后的音频 Noise Only：只输出噪声部分的音频 如果处理算法选择MDX-Net SEGMENT SIZE：调整切片大小 较小的大小消耗较少的资源。 较大的大小消耗更多资源，但可能提供更好的结果。 （默认的256即可，长切片对效果的提升微乎其微） OVERLAP：控制预测窗口之间的重叠量 较高的值可能会提供更好的结果，但会导致更长的处理时间。 （默认即可，实测没啥提升） 下面的选项会随着不同的模型发生变化 Vocals Only：只提取人声 Instrumental Only：只提取伴奏 No Reverb Only：只输出去掉混响的音频 Reverb Only：只输出混响部分的音频 如果处理算法选择Demucs CHOOSE STEM(s)：选择音轨 Vocals：人声，Bass：贝斯，Drums：鼓，Other：其他乐器 Guitar：吉他，Piano，钢琴（这两项是v4 | htdemucs_6s模型独占) SEGMENT：调整切片大小 较小的大小消耗较少的资源。 较大的大小消耗更多资源，但可能提供更好的结果。 （默认即可，长切片对效果的提升微乎其微） 如果处理算法选择Ensemble Mode MAIN STEM PAIR：选择合奏的音轨类型 Vocals/Instrumental：主要音轨：人声，次要音轨：伴奏 Bass/No Bass：主要音轨：贝斯，次要音轨：没有贝斯 Drums/No Drums：主要音轨：鼓，次要音轨：没有鼓 Other/No Other：主要音轨：其他，次要音轨：没有其他 4 Stem Ensemble：汇集所有4音轨Demucs模型并合并所有输出。 Multi-stem Ensemble：&#34;丛林合奏&#34;汇集所有模型并合并相关的输出。（不是很懂QAQ） ENSEMBLE ALGORITHM：选择用于生成最终输出的合奏算法 例如：Max Spec/Min Spec，斜杠前面的对主要音轨（Primary stem）生效,斜杠后面的对次要音轨（Secondary stem）生效，对于“4音轨合奏（4 Stem Ensemble）”选项，只会显示一个算法。 详细解释： ⚪Max Spec： 产生可能的最高输出。 适用于人声音轨，以获得更丰满的声音，但可能会引入不希望的伪影。 适用于器乐音轨，但请避免在合奏中使用VR Arch模型。 ⚪Min Spec： 产生可能的最低输出。 适用于器乐音轨，以获得更清晰的结果。可能会导致“浑浊”的声音。 ⚪Average： 将所有结果取平均以生成最终输出。 如果处理算法选择Audio Tools 不做介绍，绝对不是UP懒C= C= C=(っ°Д°;)っ Audio Jam AI 分轨 可以分开节奏吉他 和 solo部分 参考 麦口罩 1.2. 其他 AI 工具">
-  <meta itemprop="dateModified" content="2026-02-18T01:59:27+00:00">
+  <meta itemprop="dateModified" content="2026-02-19T04:52:29+00:00">
   <meta itemprop="wordCount" content="168">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="伴奏分离">
@@ -227,8 +227,8 @@ Audio Jam AI 分轨
 模型介绍
 1.1.1. 分离方法 CHOOSE PROCESS METHOD：选择处理音频的算法 VR Architecture：使用幅度频谱图进行音源分离。 MDX-Net：采用混合频谱网络进行音源分离。 Demucs：利用混合频谱网络进行音源分离。 Ensemble Mode：将多个模型和网络的结果组合以获得最佳结果。 Audio Tools：提供额外的实用工具，以增加便利性。 GPU Conversion：使用显卡加速处理（强烈建议勾选，CPU计算的速度非常慢） Sample Mode (??s) ：只处理??秒的音频，可以预览结果 1.1.2. 模型细节用法 如果处理算法选择VR Architecture WINDOW SIZE：选择窗口大小以平衡质量和速度 1024 - 快速但质量较低。 512 - 中等速度和质量。 320 - 需要更长时间，但可能提供更好的质量。（推荐，实际上慢不了多少） AGGRESSION SETTING：调整主音轨提取的强度 可调范围是[-100, 100]，较大的值意味着更深的提取。 通常，对于人声和器乐，将其设置为5。 超过5的值可能会使非人声模型的声音变得混浊。 下面的选项会随着不同的模型发生变化 Vocals Only：只提取人声 Instrumental Only：只提取伴奏 No Echo Only：只输出去掉混响的音频 Echo Only：只输出混响部分的音频 No Noise Only：只输出降噪后的音频 Noise Only：只输出噪声部分的音频 如果处理算法选择MDX-Net SEGMENT SIZE：调整切片大小 较小的大小消耗较少的资源。 较大的大小消耗更多资源，但可能提供更好的结果。 （默认的256即可，长切片对效果的提升微乎其微） OVERLAP：控制预测窗口之间的重叠量 较高的值可能会提供更好的结果，但会导致更长的处理时间。 （默认即可，实测没啥提升） 下面的选项会随着不同的模型发生变化 Vocals Only：只提取人声 Instrumental Only：只提取伴奏 No Reverb Only：只输出去掉混响的音频 Reverb Only：只输出混响部分的音频 如果处理算法选择Demucs CHOOSE STEM(s)：选择音轨 Vocals：人声，Bass：贝斯，Drums：鼓，Other：其他乐器 Guitar：吉他，Piano，钢琴（这两项是v4 | htdemucs_6s模型独占) SEGMENT：调整切片大小 较小的大小消耗较少的资源。 较大的大小消耗更多资源，但可能提供更好的结果。 （默认即可，长切片对效果的提升微乎其微） 如果处理算法选择Ensemble Mode MAIN STEM PAIR：选择合奏的音轨类型 Vocals/Instrumental：主要音轨：人声，次要音轨：伴奏 Bass/No Bass：主要音轨：贝斯，次要音轨：没有贝斯 Drums/No Drums：主要音轨：鼓，次要音轨：没有鼓 Other/No Other：主要音轨：其他，次要音轨：没有其他 4 Stem Ensemble：汇集所有4音轨Demucs模型并合并所有输出。 Multi-stem Ensemble：&#34;丛林合奏&#34;汇集所有模型并合并相关的输出。（不是很懂QAQ） ENSEMBLE ALGORITHM：选择用于生成最终输出的合奏算法 例如：Max Spec/Min Spec，斜杠前面的对主要音轨（Primary stem）生效,斜杠后面的对次要音轨（Secondary stem）生效，对于“4音轨合奏（4 Stem Ensemble）”选项，只会显示一个算法。 详细解释： ⚪Max Spec： 产生可能的最高输出。 适用于人声音轨，以获得更丰满的声音，但可能会引入不希望的伪影。 适用于器乐音轨，但请避免在合奏中使用VR Arch模型。 ⚪Min Spec： 产生可能的最低输出。 适用于器乐音轨，以获得更清晰的结果。可能会导致“浑浊”的声音。 ⚪Average： 将所有结果取平均以生成最终输出。 如果处理算法选择Audio Tools 不做介绍，绝对不是UP懒C= C= C=(っ°Д°;)っ Audio Jam AI 分轨 可以分开节奏吉他 和 solo部分 参考 麦口罩 1.2. 其他 AI 工具">
 
-    <link rel="preload" href="/css/compiled/main.min.f1286e08894e4edb7578e277f8af9252465cacf0a6e1ffc14d2218d4b5f80571.css" as="style" integrity="sha256-8ShuCIlOTtt1eOJ3&#43;K&#43;SUkZcrPCm4f/BTSIY1LX4BXE=" />
-    <link href="/css/compiled/main.min.f1286e08894e4edb7578e277f8af9252465cacf0a6e1ffc14d2218d4b5f80571.css" rel="stylesheet" integrity="sha256-8ShuCIlOTtt1eOJ3&#43;K&#43;SUkZcrPCm4f/BTSIY1LX4BXE=" />
+    <link rel="preload" href="/css/compiled/main.min.fbc886eda031ca925b8881e8e2c06f0439c1435bc5aa18ece07385c410505f19.css" as="style" integrity="sha256-&#43;8iG7aAxypJbiIHo4sBvBDnBQ1vFqhjs4HOFxBBQXxk=" />
+    <link href="/css/compiled/main.min.fbc886eda031ca925b8881e8e2c06f0439c1435bc5aa18ece07385c410505f19.css" rel="stylesheet" integrity="sha256-&#43;8iG7aAxypJbiIHo4sBvBDnBQ1vFqhjs4HOFxBBQXxk=" />
 
   
 
@@ -521,40 +521,103 @@ Audio Jam AI 分轨
     href="/cooking/beverages/"
     
   >Coffee &amp; Wine
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="hx:h-[18px] hx:min-w-[18px] hx:rounded-xs hx:p-0.5 hx:hover:bg-gray-800/5 hx:dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="hx:origin-center hx:transition-transform hx:rtl:-rotate-180"></path></svg></span>
+    </a>
+              <div class="hx:ltr:pr-0 hx:overflow-hidden">
+        <ul class='hx:relative hx:flex hx:flex-col hx:gap-1 hx:before:absolute hx:before:inset-y-1 hx:before:w-px hx:before:bg-gray-200 hx:before:content-[""] hx:ltr:ml-3 hx:ltr:pl-3 hx:ltr:before:left-0 hx:rtl:mr-3 hx:rtl:pr-3 hx:rtl:before:right-0 hx:dark:before:bg-neutral-800'><li class="hx:flex hx:flex-col "><a
+    class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+    href="/cooking/beverages/%E5%92%96%E5%95%A1%E4%B8%8E%E8%91%A1%E8%90%84%E9%85%92%E9%9A%8F%E6%89%8B%E8%AE%B0/"
+    
+  >咖啡与葡萄酒随手记
     </a>
               
+            </li><li class="hx:flex hx:flex-col "><a
+    class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+    href="/cooking/beverages/%E5%95%A4%E9%85%92/"
+    
+  >啤酒
+    </a>
+              
+            </li></ul>
+      </div>
             </li><li class="hx:flex hx:flex-col "><a
     class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
       hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
     href="/cooking/desserts/"
     
   >Desserts &amp; Baking
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="hx:h-[18px] hx:min-w-[18px] hx:rounded-xs hx:p-0.5 hx:hover:bg-gray-800/5 hx:dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="hx:origin-center hx:transition-transform hx:rtl:-rotate-180"></path></svg></span>
+    </a>
+              <div class="hx:ltr:pr-0 hx:overflow-hidden">
+        <ul class='hx:relative hx:flex hx:flex-col hx:gap-1 hx:before:absolute hx:before:inset-y-1 hx:before:w-px hx:before:bg-gray-200 hx:before:content-[""] hx:ltr:ml-3 hx:ltr:pl-3 hx:ltr:before:left-0 hx:rtl:mr-3 hx:rtl:pr-3 hx:rtl:before:right-0 hx:dark:before:bg-neutral-800'><li class="hx:flex hx:flex-col "><a
+    class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+    href="/cooking/desserts/%E7%83%98%E7%84%99%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0/"
+    
+  >烘焙基础笔记
     </a>
               
+            </li></ul>
+      </div>
             </li><li class="hx:flex hx:flex-col "><a
     class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
       hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
     href="/cooking/pizza/"
     
   >Pizza Lab
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="hx:h-[18px] hx:min-w-[18px] hx:rounded-xs hx:p-0.5 hx:hover:bg-gray-800/5 hx:dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="hx:origin-center hx:transition-transform hx:rtl:-rotate-180"></path></svg></span>
+    </a>
+              <div class="hx:ltr:pr-0 hx:overflow-hidden">
+        <ul class='hx:relative hx:flex hx:flex-col hx:gap-1 hx:before:absolute hx:before:inset-y-1 hx:before:w-px hx:before:bg-gray-200 hx:before:content-[""] hx:ltr:ml-3 hx:ltr:pl-3 hx:ltr:before:left-0 hx:rtl:mr-3 hx:rtl:pr-3 hx:rtl:before:right-0 hx:dark:before:bg-neutral-800'><li class="hx:flex hx:flex-col "><a
+    class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+    href="/cooking/pizza/%E6%8A%AB%E8%90%A8%E9%9D%A2%E5%9B%A2%E4%B8%8E%E7%83%98%E7%83%A4/"
+    
+  >披萨面团与烘烤
     </a>
               
+            </li></ul>
+      </div>
             </li><li class="hx:flex hx:flex-col "><a
     class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
       hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
     href="/cooking/seafood/"
     
   >Seafood &amp; Fish
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="hx:h-[18px] hx:min-w-[18px] hx:rounded-xs hx:p-0.5 hx:hover:bg-gray-800/5 hx:dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="hx:origin-center hx:transition-transform hx:rtl:-rotate-180"></path></svg></span>
+    </a>
+              <div class="hx:ltr:pr-0 hx:overflow-hidden">
+        <ul class='hx:relative hx:flex hx:flex-col hx:gap-1 hx:before:absolute hx:before:inset-y-1 hx:before:w-px hx:before:bg-gray-200 hx:before:content-[""] hx:ltr:ml-3 hx:ltr:pl-3 hx:ltr:before:left-0 hx:rtl:mr-3 hx:rtl:pr-3 hx:rtl:before:right-0 hx:dark:before:bg-neutral-800'><li class="hx:flex hx:flex-col "><a
+    class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+    href="/cooking/seafood/%E6%B5%B7%E9%B2%9C%E5%8E%BB%E8%85%A5%E4%B8%8E%E7%81%AB%E5%80%99/"
+    
+  >海鲜去腥与火候
     </a>
               
+            </li></ul>
+      </div>
             </li><li class="hx:flex hx:flex-col "><a
     class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
       hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
     href="/cooking/meats/"
     
   >Steaks &amp; Red Meat
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="hx:h-[18px] hx:min-w-[18px] hx:rounded-xs hx:p-0.5 hx:hover:bg-gray-800/5 hx:dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="hx:origin-center hx:transition-transform hx:rtl:-rotate-180"></path></svg></span>
+    </a>
+              <div class="hx:ltr:pr-0 hx:overflow-hidden">
+        <ul class='hx:relative hx:flex hx:flex-col hx:gap-1 hx:before:absolute hx:before:inset-y-1 hx:before:w-px hx:before:bg-gray-200 hx:before:content-[""] hx:ltr:ml-3 hx:ltr:pl-3 hx:ltr:before:left-0 hx:rtl:mr-3 hx:rtl:pr-3 hx:rtl:before:right-0 hx:dark:before:bg-neutral-800'><li class="hx:flex hx:flex-col "><a
+    class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+    href="/cooking/meats/%E7%89%9B%E6%8E%92%E7%85%8E%E5%88%B6%E7%AC%94%E8%AE%B0/"
+    
+  >牛排煎制笔记
     </a>
               
+            </li></ul>
+      </div>
             </li></ul>
       </div></li> 
           <li class=""><a
@@ -983,32 +1046,92 @@ Audio Jam AI 分轨
     href="/sports/running/"
     
   >Running Notes
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="hx:h-[18px] hx:min-w-[18px] hx:rounded-xs hx:p-0.5 hx:hover:bg-gray-800/5 hx:dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="hx:origin-center hx:transition-transform hx:rtl:-rotate-180"></path></svg></span>
+    </a>
+              <div class="hx:ltr:pr-0 hx:overflow-hidden">
+        <ul class='hx:relative hx:flex hx:flex-col hx:gap-1 hx:before:absolute hx:before:inset-y-1 hx:before:w-px hx:before:bg-gray-200 hx:before:content-[""] hx:ltr:ml-3 hx:ltr:pl-3 hx:ltr:before:left-0 hx:rtl:mr-3 hx:rtl:pr-3 hx:rtl:before:right-0 hx:dark:before:bg-neutral-800'><li class="hx:flex hx:flex-col "><a
+    class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+    href="/sports/running/%E8%B7%91%E6%AD%A5%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%95/"
+    
+  >跑步训练记录
     </a>
               
+            </li></ul>
+      </div>
             </li><li class="hx:flex hx:flex-col "><a
     class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
       hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
     href="/sports/swimming/"
     
   >Swimming
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="hx:h-[18px] hx:min-w-[18px] hx:rounded-xs hx:p-0.5 hx:hover:bg-gray-800/5 hx:dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="hx:origin-center hx:transition-transform hx:rtl:-rotate-180"></path></svg></span>
+    </a>
+              <div class="hx:ltr:pr-0 hx:overflow-hidden">
+        <ul class='hx:relative hx:flex hx:flex-col hx:gap-1 hx:before:absolute hx:before:inset-y-1 hx:before:w-px hx:before:bg-gray-200 hx:before:content-[""] hx:ltr:ml-3 hx:ltr:pl-3 hx:ltr:before:left-0 hx:rtl:mr-3 hx:rtl:pr-3 hx:rtl:before:right-0 hx:dark:before:bg-neutral-800'><li class="hx:flex hx:flex-col "><a
+    class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+    href="/sports/swimming/%E6%B8%B8%E6%B3%B3%E8%AE%AD%E7%BB%83%E7%AC%94%E8%AE%B0/"
+    
+  >游泳训练笔记
     </a>
               
+            </li></ul>
+      </div>
             </li><li class="hx:flex hx:flex-col "><a
     class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
       hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
     href="/sports/winter_sports/"
     
   >Winter Sports
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="hx:h-[18px] hx:min-w-[18px] hx:rounded-xs hx:p-0.5 hx:hover:bg-gray-800/5 hx:dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="hx:origin-center hx:transition-transform hx:rtl:-rotate-180"></path></svg></span>
+    </a>
+              <div class="hx:ltr:pr-0 hx:overflow-hidden">
+        <ul class='hx:relative hx:flex hx:flex-col hx:gap-1 hx:before:absolute hx:before:inset-y-1 hx:before:w-px hx:before:bg-gray-200 hx:before:content-[""] hx:ltr:ml-3 hx:ltr:pl-3 hx:ltr:before:left-0 hx:rtl:mr-3 hx:rtl:pr-3 hx:rtl:before:right-0 hx:dark:before:bg-neutral-800'><li class="hx:flex hx:flex-col "><a
+    class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+    href="/sports/winter_sports/%E6%BB%91%E9%9B%AA%E6%BB%91%E5%86%B0%E7%AC%94%E8%AE%B0/"
+    
+  >滑雪/滑冰笔记
     </a>
               
+            </li><li class="hx:flex hx:flex-col "><a
+    class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+    href="/sports/winter_sports/%E6%BB%91%E5%86%B0/"
+    
+  >滑冰
+    </a>
+              
+            </li><li class="hx:flex hx:flex-col "><a
+    class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+    href="/sports/winter_sports/%E6%BB%91%E9%9B%AA/"
+    
+  >滑雪
+    </a>
+              
+            </li></ul>
+      </div>
             </li><li class="hx:flex hx:flex-col "><a
     class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
       hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
     href="/sports/workout/"
     
   >Workout Plan
+        <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="hx:h-[18px] hx:min-w-[18px] hx:rounded-xs hx:p-0.5 hx:hover:bg-gray-800/5 hx:dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="hx:origin-center hx:transition-transform hx:rtl:-rotate-180"></path></svg></span>
+    </a>
+              <div class="hx:ltr:pr-0 hx:overflow-hidden">
+        <ul class='hx:relative hx:flex hx:flex-col hx:gap-1 hx:before:absolute hx:before:inset-y-1 hx:before:w-px hx:before:bg-gray-200 hx:before:content-[""] hx:ltr:ml-3 hx:ltr:pl-3 hx:ltr:before:left-0 hx:rtl:mr-3 hx:rtl:pr-3 hx:rtl:before:right-0 hx:dark:before:bg-neutral-800'><li class="hx:flex hx:flex-col "><a
+    class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+    href="/sports/workout/%E5%8A%9B%E9%87%8F%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92/"
+    
+  >力量训练计划
     </a>
               
+            </li></ul>
+      </div>
             </li></ul>
       </div></li>
       <li class="[word-break:break-word] hx:mt-5 hx:mb-2 hx:px-2 hx:py-1.5 hx:text-sm hx:font-semibold hx:text-gray-900 hx:first:mt-0 hx:dark:text-gray-100">
@@ -1519,7 +1642,7 @@ Audio Jam AI 分轨
           </span>
 
           <br>
-              <span class="hx:text-sm"> Last Modified: 最后更新于 2026 年 2 月 18 日</span>
+              <span class="hx:text-sm"> Last Modified: 最后更新于 2026 年 2 月 19 日</span>
           <span style="background-color: yellow; padding: 2px 5px; border: 1px solid #ccc;">
             这是一个有颜色背景的文字
           </span>
@@ -1714,7 +1837,7 @@ Audio Jam AI 分轨
         </div>
         
         
-    <div class="hx:mt-12 hx:mb-8 hx:block hx:text-xs hx:text-gray-500 hx:ltr:text-right hx:rtl:text-left hx:dark:text-gray-400">Last updated on <time datetime="2026-02-18T01:59:27.000Z">February 18, 2026</time></div>
+    <div class="hx:mt-12 hx:mb-8 hx:block hx:text-xs hx:text-gray-500 hx:ltr:text-right hx:rtl:text-left hx:dark:text-gray-400">Last updated on <time datetime="2026-02-19T04:52:29.000Z">February 19, 2026</time></div>
         <div class="hx:mb-8 hx:flex hx:items-center hx:border-t hx:pt-8 hx:border-gray-200 hx:dark:border-neutral-800 hx:contrast-more:border-neutral-400 hx:dark:contrast-more:border-neutral-400 hx:print:hidden"><a
         href="/music/%E5%90%89%E4%BB%96%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/%E8%BD%AF%E4%BB%B6_%E7%94%B5%E8%B7%AF_%E9%9F%B3%E8%89%B2_%E5%B7%A5%E5%85%B7/8.3.%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"
         title="个人博客搭建"
